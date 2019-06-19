@@ -1,0 +1,23 @@
+Version 1.1.2
+-------------
+- Renamed a utilized JS function in order to prevent conflict with different function of same name in BuddyPress plugin, causing random "pos" text strings in tinyMCE editor
+- Internal noUiSlider script has been updated from v8.2.1 to v9.2.0
+
+Version 1.1.1
+-------------
+- Updated external links to new domains for demo and support websites
+- Plugin now "shares" custom setting parameters for Visual Composer with other addons from "Tekanewa Scripts by Kraut Coding" for better performance
+- Updated some internal JS routines to make plugin compatible with "Composium - Visual Composer Extensions Addon" plugin (v5.1.x)
+- Plugin will now check for 3rd party "Elements for Users - Addon for Visual Composer" plugin to correctly register elements with that plugin as well
+
+Version 1.1.0
+-------------
+- Internal noUiSlider script has been updated from v7.1.0 to v8.2.1
+- Adjustments for Visual Composer v4.9.x (switch to vc_lean_map() whenever possible)
+- Updated external manual/changelog/etc. links to new website URL's
+- Fixed issue where internal version check routines treat VC v4.10/4.10.0 as v4.1.0 instead
+- Fixed issue where user selectbox uses user display name as value, instead of login name
+
+Version 1.0.0
+-------------
+- Initial Release

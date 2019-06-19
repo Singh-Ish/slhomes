@@ -1,0 +1,78 @@
+08-25-2017 @ 12:15:01 - Creating Instamojo Order for order id: 353
+08-25-2017 @ 12:15:01 - Client ID: EeIgxxxxxxxxxx | Client Secret: J4rfxxxxxxxxxx | Testmode:  
+08-25-2017 @ 12:15:02 - Data sent for creating order Array
+(
+    [name] => aniket parab
+    [email] => ani.parab89@gmail.com
+    [phone] => 8976520834
+    [amount] => 38
+    [currency] => INR
+    [redirect_url] => http://slhomes.in/new
+    [transaction_id] => 1503663302-353
+)
+
+08-25-2017 @ 12:15:03 - Response from server on creating orderstdClass Object
+(
+    [order] => stdClass Object
+        (
+            [id] => eac9df53f1a34c31960be69bbf2c6da1
+            [transaction_id] => 1503663302-353
+            [status] => pending
+            [currency] => INR
+            [amount] => 38.00
+            [name] => aniket parab
+            [email] => ani.parab89@gmail.com
+            [phone] => +918976520834
+            [description] => Instapay
+            [redirect_url] => http://slhomes.in/new
+            [webhook_url] => 
+            [created_at] => 2017-08-25T12:15:02.978846Z
+            [resource_uri] => https://www.instamojo.com/v2/gateway/orders/id:eac9df53f1a34c31960be69bbf2c6da1/
+        )
+
+    [payment_options] => stdClass Object
+        (
+            [payment_url] => https://www.instamojo.com/@slh/eac9df53f1a34c31960be69bbf2c6da1?embed=form
+        )
+
+)
+
+09-12-2017 @ 08:04:18 - Creating Instamojo Order for order id: 507
+09-12-2017 @ 08:04:18 - Client ID: EeIgxxxxxxxxxx | Client Secret: J4rfxxxxxxxxxx | Testmode:  
+09-12-2017 @ 08:04:18 - Data sent for creating order Array
+(
+    [name] => aniket parab
+    [email] => aniparab.parab@gmail.com
+    [phone] => +918976520834
+    [amount] => 19
+    [currency] => INR
+    [redirect_url] => http://slhomes.in/new
+    [transaction_id] => 1505203458-507
+)
+
+09-12-2017 @ 08:04:19 - Response from server on creating orderstdClass Object
+(
+    [order] => stdClass Object
+        (
+            [id] => 5883464087874df2ab2b9956484f78f8
+            [transaction_id] => 1505203458-507
+            [status] => pending
+            [currency] => INR
+            [amount] => 19.00
+            [name] => aniket parab
+            [email] => aniparab.parab@gmail.com
+            [phone] => +918976520834
+            [description] => Instapay
+            [redirect_url] => http://slhomes.in/new
+            [webhook_url] => 
+            [created_at] => 2017-09-12T08:04:19.275545Z
+            [resource_uri] => https://www.instamojo.com/v2/gateway/orders/id:5883464087874df2ab2b9956484f78f8/
+        )
+
+    [payment_options] => stdClass Object
+        (
+            [payment_url] => https://www.instamojo.com/@slh/5883464087874df2ab2b9956484f78f8?embed=form
+        )
+
+)
+

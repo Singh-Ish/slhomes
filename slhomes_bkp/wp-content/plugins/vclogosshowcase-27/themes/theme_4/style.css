@@ -1,0 +1,125 @@
+.theme_4 .imc_wrapp ul{
+margin:0px;
+padding:0px;
+list-style-type:none;
+}
+.theme_4 .imc_wrapp ul li{
+	/*
+-webkit-animation-delay: 0s;
+-webkit-animation-duration: 1s;
+-webkit-animation-fill-mode: both;
+-webkit-animation-name: fadeIn;
+	*/
+box-sizing: border-box;
+color: rgb(136, 136, 136);
+font-family: 'Open Sans', sans-serif;
+font-size: 13px;
+font-weight: 300;
+line-height: 21px;
+min-height: 1px;
+padding-left: 5px;
+padding-right: 5px;
+position: relative;
+width: 292px;
+vertical-align:top;
+min-width:100px;
+display:inline-block;
+float:none;
+margin-bottom:5px;
+}
+.theme_4 .imc-logo-wrapper{
+position:relative;
+border:1px solid #d5d5d5; 
+border-color: rgb(220, 220, 220);
+-webkit-transition: all 0.3s ease-in-out 0s;
+-moz-transition: all 0.3s ease-in-out 0s;
+transition: all 0.3s ease-in-out 0s;
+}
+.theme_4 .imc-logo-wrapper:hover{
+box-shadow: rgba(220,220,220, 0.6) 0px 0px 10px 2px;
+}
+.theme_4 .imc-logo-wrapper .imc-logo{
+background-size: contain !important; 
+background-position:center !important;
+background-repeat:no-repeat !important;
+overflow:hidden;
+width:96%; 
+height:96%; 
+margin: 0 auto;
+position:absolute;
+top:2%;
+left:2%;
+opacity:0.6;
+transition-delay: 0s;
+transition-duration: 0.4s;
+transition-property: all;
+transition-timing-function: ease-in-out;
+transition: all 0.4s ease-in-out;
+-moz-transition: all 0.4s ease-in-out;
+-webkit-transition: all 0.4s ease-in-out;
+-o-transition: all 0.4s ease-in-out;
+}
+.theme_4 .imc-logo-wrapper:hover .imc-logo{
+opacity:1;
+animation-name: floating;
+-webkit-animation-name: floating;
+animation-duration: 1.5s;	
+-webkit-animation-duration: 1.5s;
+animation-iteration-count: 1;
+-webkit-animation-iteration-count: 1;
+/*-webkit-transform: scale(1.01) rotate(10deg);
+-moz-transform: scale(1.01) rotate(10deg);
+-ms-transform: scale(1.01) rotate(10deg);
+-o-transform: scale(1.01) rotate(10deg);
+transform: scale(1.01) rotate(10deg);*/
+}
+.theme_4 .imc-logo-wrapper:hover .imc-client-name{
+opacity:1;
+transition-delay: 0.5s;
+-webkit-animation-delay: 0.5s;
+}
+.theme_4 .imc-client-name{
+font-family: "Montserrat";
+width: 100%;
+margin: 0;
+margin:0 1px;
+z-index:9995;
+color: #fff;
+font-size: 1.2em;
+font-weight:300;
+position:absolute;
+bottom:0px;
+left:0px;
+opacity:0;
+line-height:40px;
+z-index:9995;
+background: rgba(0, 0, 0, 0.7);
+transition: 0.6s;
+-webkit-transition: 0.6s;
+-moz-transition: 0.6s;
+-o-transition: 0.6s;
+-ms-transition: 0.6s;
+text-align:center;
+}
+@keyframes floating {
+	0% {
+		transform: translateY(0%);	
+	}
+	50% {
+		transform: translateY(8%);	
+	}	
+	100% {
+		transform: translateY(0%);
+	}			
+}
+@-webkit-keyframes floating {
+	0% {
+		-webkit-transform: translateY(0%);	
+	}
+	50% {
+		-webkit-transform: translateY(8%);	
+	}	
+	100% {
+		-webkit-transform: translateY(0%);
+	}			
+}

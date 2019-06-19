@@ -1,0 +1,769 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: User Signup For ARForms v1.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-12-17 15:14:34+0000\n"
+"Last-Translator: admin <testrepute123@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: SPAIN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: arformsusersignup.php:265
+#@ ARForms-user-registration
+msgid "User Signup For ARForms plugin requires ARForms Plugin installed and active."
+msgstr "Usuario Regístrate ARForms plugin requiere ARForms plugin instalado y activo."
+
+#: arformsusersignup.php:323
+#@ ARForms-user-registration
+msgid "Configure Usersignup"
+msgstr "Configure sitio!"
+
+#: arformsusersignup.php:3814
+#: core/edit.php:15
+#: core/edit_tab.php:32
+#@ ARForms-user-registration
+msgid "User Signup"
+msgstr "Alta de usuario"
+
+#: arformsusersignup.php:803
+#: arformsusersignup.php:4396
+#@ ARForms-user-registration
+msgid "Someone requested that the password be reset for the following account:"
+msgstr "Someone requested that the password be reset for the following account:"
+
+#: arformsusersignup.php:805
+#: arformsusersignup.php:4398
+#, php-format
+#@ ARForms-user-registration
+msgid "Username: %s"
+msgstr "Nombre de usuario:%s"
+
+#: arformsusersignup.php:806
+#: arformsusersignup.php:4399
+#@ ARForms-user-registration
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr "Si esto fue un error, simplemente ignore este mensaje y no pasará nada."
+
+#: arformsusersignup.php:807
+#: arformsusersignup.php:4400
+#@ ARForms-user-registration
+msgid "To reset your password, visit the following address:"
+msgstr "Para restablecer su contraseña, visite la siguiente dirección:"
+
+#: arformsusersignup.php:820
+#: arformsusersignup.php:4412
+#, php-format
+#@ ARForms-user-registration
+msgid "[%s] Password Reset"
+msgstr "[%s] Password Reset"
+
+#: arformsusersignup.php:1184
+#: arformsusersignup.php:1283
+#@ ARForms-user-registration
+msgid "Record is deleted successfully."
+msgstr "Registro eliminado con éxito."
+
+#: arformsusersignup.php:1272
+#@ ARForms-user-registration
+msgid "Please select one or more records."
+msgstr "Por favor, seleccione uno o más registros."
+
+#: arformsusersignup.php:1299
+#: arformsusersignup.php:1619
+#: core/list_forms.php:3
+#: core/list_forms.php:349
+#@ ARForms-user-registration
+msgid "Delete"
+msgstr "borrar"
+
+#: arformsusersignup.php:1557
+#: core/list_forms.php:287
+#@ ARForms-user-registration
+msgid "Configure New Set"
+msgstr "Configure nuevo conjunto"
+
+#: arformsusersignup.php:1564
+#: arformsusersignup.php:1643
+#: core/list_forms.php:294
+#: core/list_forms.php:373
+#@ ARForms-user-registration
+msgid "Bulk Actions"
+msgstr "acciones en Bloque"
+
+#: arformsusersignup.php:1574
+#: arformsusersignup.php:1653
+#: core/list_forms.php:304
+#: core/list_forms.php:383
+#@ ARForms-user-registration
+msgid "Apply"
+msgstr "aplicar"
+
+#: arformsusersignup.php:1583
+#: core/list_forms.php:313
+#@ ARForms-user-registration
+msgid "Sr. No."
+msgstr "Sr. No."
+
+#: arformsusersignup.php:1584
+#: core/list_forms.php:314
+#@ ARForms-user-registration
+msgid "Name"
+msgstr "nombre"
+
+#: arformsusersignup.php:1585
+#: core/list_forms.php:315
+#@ ARForms-user-registration
+msgid "Mapped With"
+msgstr "Con asignada"
+
+#: arformsusersignup.php:1586
+#: core/list_forms.php:316
+#@ ARForms-user-registration
+msgid "Update Date"
+msgstr "Fecha de actualización"
+
+#: arformsusersignup.php:1587
+#: core/list_forms.php:317
+#@ ARForms-user-registration
+msgid "Action"
+msgstr "acción"
+
+#: arformsusersignup.php:1617
+#: core/list_forms.php:347
+#@ ARForms-user-registration
+msgid "Edit Configuration"
+msgstr "Editar configuración"
+
+#: arformsusersignup.php:1627
+#: core/list_forms.php:357
+#@ ARForms-user-registration
+msgid "Show / Hide columns"
+msgstr "Mostrar / Ocultar columnas"
+
+#: arformsusersignup.php:1628
+#: core/list_forms.php:358
+#@ ARForms-user-registration
+msgid "Search"
+msgstr "búsqueda"
+
+#: arformsusersignup.php:1629
+#: core/list_forms.php:359
+#@ ARForms-user-registration
+msgid "entries"
+msgstr "entradas"
+
+#: arformsusersignup.php:1630
+#: core/list_forms.php:360
+#@ ARForms-user-registration
+msgid "Show"
+msgstr "show"
+
+#: arformsusersignup.php:1631
+#: core/list_forms.php:361
+#@ ARForms-user-registration
+msgid "Showing"
+msgstr "Showing"
+
+#: arformsusersignup.php:1632
+#: core/list_forms.php:362
+#@ ARForms-user-registration
+msgid "to"
+msgstr "a"
+
+#: arformsusersignup.php:1633
+#: core/list_forms.php:363
+#@ ARForms-user-registration
+msgid "of"
+msgstr "de"
+
+#: arformsusersignup.php:1634
+#: core/list_forms.php:364
+#@ ARForms-user-registration
+msgid "No matching records found"
+msgstr "No hay registros coincidentes encontrados"
+
+#: arformsusersignup.php:1635
+#: core/list_forms.php:365
+#@ ARForms-user-registration
+msgid "No data available in table"
+msgstr "No hay datos disponibles en la tabla"
+
+#: arformsusersignup.php:1636
+#: core/list_forms.php:366
+#@ ARForms-user-registration
+msgid "filtered from"
+msgstr "filtrado de"
+
+#: arformsusersignup.php:1637
+#: core/list_forms.php:367
+#@ ARForms-user-registration
+msgid "total"
+msgstr "total"
+
+#: arformsusersignup.php:1718
+#: arformsusersignup.php:1726
+#: arformsusersignup.php:1734
+#: arformsusersignup.php:1742
+#: arformsusersignup.php:1750
+#: arformsusersignup.php:1758
+#: arformsusersignup.php:3737
+#: arformsusersignup.php:3749
+#: arformsusersignup.php:3761
+#: arformsusersignup.php:3773
+#: arformsusersignup.php:3785
+#: arformsusersignup.php:3797
+#: core/edit_tab.php:16
+#@ ARForms-user-registration
+msgid "Form is successfully updated."
+msgstr "Formulario se ha actualizado correctamente."
+
+#: arformsusersignup.php:1819
+#: arformsusersignup.php:1853
+#: arformsusersignup.php:1873
+#: arformsusersignup.php:1900
+#: arformsusersignup.php:1920
+#: arformsusersignup.php:1933
+#: arformsusersignup.php:1967
+#: arformsusersignup.php:1992
+#: arformsusersignup.php:2017
+#: arformsusersignup.php:2045
+#: arformsusersignup.php:2058
+#: arformsusersignup.php:2691
+#@ ARForms-user-registration
+msgid "Select Field"
+msgstr "Seleccionar campo"
+
+#: arformsusersignup.php:3815
+#@ ARForms-user-registration
+msgid "Login"
+msgstr "login"
+
+#: arformsusersignup.php:3816
+#: core/edit_forgot_password.php:45
+#@ ARForms-user-registration
+msgid "Forgot Password"
+msgstr "Olvidé mi contraseña"
+
+#: arformsusersignup.php:3817
+#: core/edit_change_password.php:46
+#@ ARForms-user-registration
+msgid "Change Password"
+msgstr "cambiar la contraseña"
+
+#: arformsusersignup.php:3819
+#: core/edit.php:18
+#: core/edit_profile.php:55
+#: core/edit_tab.php:38
+#@ ARForms-user-registration
+msgid "Edit Profile"
+msgstr "Editar Perfil"
+
+#: arformsusersignup.php:154
+#: arformsusersignup.php:3820
+#: arformsusersignup.php:3874
+#: core/edit_login.php:154
+#@ ARForms-user-registration
+msgid "Logout"
+msgstr "finalizar la sesión"
+
+#: arformsusersignup.php:3843
+#@ ARForms-user-registration
+msgid "Username already exists"
+msgstr "Ya existe Nombre de usuario"
+
+#: arformsusersignup.php:3844
+#@ ARForms-user-registration
+msgid "Email already exists"
+msgstr "Correo electrónico ya existe"
+
+#: arformsusersignup.php:3845
+#@ ARForms-user-registration
+msgid "Invalid username or password"
+msgstr "Nombre de usuario o contraseña no válidos"
+
+#: arformsusersignup.php:3847
+#@ ARForms-user-registration
+msgid "Invalid old password"
+msgstr "Inválido contraseña antigua"
+
+#: arformsusersignup.php:3912
+#@ ARForms-user-registration
+msgid "Select Meta Option"
+msgstr "Seleccione la opción de Meta"
+
+#: arformsusersignup.php:3914
+#@ ARForms-user-registration
+msgid "Website"
+msgstr "sitio web"
+
+#: arformsusersignup.php:3915
+#@ ARForms-user-registration
+msgid "Biographical Information"
+msgstr "Información biográfica"
+
+#: arformsusersignup.php:3941
+#: arformsusersignup.php:3944
+#@ ARForms-user-registration
+msgid "Set"
+msgstr "conjunto"
+
+#: core/edit.php:5
+#@ ARForms-user-registration
+msgid "Form Configuration"
+msgstr "Configuración Form"
+
+#: core/edit.php:16
+#: core/edit_tab.php:34
+#@ ARForms-user-registration
+msgid "Login / Logout"
+msgstr "Login / Logout"
+
+#: core/edit_change_password.php:77
+#: core/edit_forgot_password.php:75
+#: core/edit_login.php:79
+#: core/edit_profile.php:84
+#: core/edit_reset_password.php:76
+#: core/edit_user_registration.php:88
+#@ ARForms-user-registration
+msgid "Please select form"
+msgstr "Por favor seleccione la forma"
+
+#: core/edit_change_password.php:82
+#: core/edit_change_password.php:108
+#: core/edit_forgot_password.php:80
+#: core/edit_forgot_password.php:96
+#: core/edit_login.php:84
+#: core/edit_login.php:100
+#: core/edit_login.php:111
+#: core/edit_login.php:120
+#: core/edit_profile.php:89
+#: core/edit_reset_password.php:81
+#: core/edit_reset_password.php:102
+#: core/edit_reset_password.php:134
+#: core/edit_user_registration.php:93
+#: core/edit_user_registration.php:110
+#: core/edit_user_registration.php:147
+#@ ARForms-user-registration
+msgid "This field cannot be blank."
+msgstr "Este campo no puede estar en blanco."
+
+#: core/edit_change_password.php:95
+#@ ARForms-user-registration
+msgid "Old Password"
+msgstr "Contraseña anterior"
+
+#: core/edit_change_password.php:104
+#: core/edit_reset_password.php:98
+#@ ARForms-user-registration
+msgid "New Password"
+msgstr "Nueva contraseña"
+
+#: core/edit_change_password.php:120
+#@ ARForms-user-registration
+msgid "Invalid Old Password"
+msgstr "Inválido Contraseña anterior"
+
+#: core/edit_change_password.php:146
+#: core/edit_forgot_password.php:119
+#: core/edit_login.php:213
+#: core/edit_profile.php:303
+#: core/edit_reset_password.php:161
+#: core/edit_user_registration.php:395
+#@ ARForms-user-registration
+msgid "Save"
+msgstr "guardar"
+
+#: core/edit_change_password.php:149
+#: core/edit_forgot_password.php:122
+#: core/edit_login.php:216
+#: core/edit_profile.php:306
+#: core/edit_reset_password.php:164
+#: core/edit_user_registration.php:398
+#@ ARForms-user-registration
+msgid "Reset"
+msgstr "reajustar"
+
+#: core/edit_change_password.php:152
+#: core/edit_forgot_password.php:125
+#: core/edit_login.php:219
+#: core/edit_profile.php:309
+#: core/edit_reset_password.php:167
+#: core/edit_user_registration.php:401
+#: core/list_forms.php:402
+#@ ARForms-user-registration
+msgid "Cancel"
+msgstr "cancelar"
+
+#: core/edit_forgot_password.php:93
+#@ ARForms-user-registration
+msgid "Username / Email"
+msgstr "Usuario / E-mail"
+
+#: core/edit_forgot_password.php:109
+#@ ARForms-user-registration
+msgid "Invalid Username / Email"
+msgstr "Invalid Username / Email"
+
+#: core/edit_login.php:97
+#: core/edit_user_registration.php:107
+#@ ARForms-user-registration
+msgid "Username"
+msgstr "Nombre de usuario"
+
+#: core/edit_login.php:107
+#: core/edit_profile.php:139
+#: core/edit_user_registration.php:153
+#@ ARForms-user-registration
+msgid "Password"
+msgstr "contraseña"
+
+#: core/edit_login.php:117
+#@ ARForms-user-registration
+msgid "Remember Me"
+msgstr "Acuérdate de mí"
+
+#: core/edit_login.php:141
+#@ ARForms-user-registration
+msgid "Login Error message"
+msgstr "Login mensaje de error"
+
+#: core/edit_login.php:161
+#@ ARForms-user-registration
+msgid "Logout Shortcode"
+msgstr "Código corto Salir"
+
+#: core/edit_login.php:165
+#@ ARForms-user-registration
+msgid "Logout link"
+msgstr "enlace Salir"
+
+#: core/edit_login.php:166
+#@ ARForms-user-registration
+msgid "Logout button"
+msgstr "botón Salir"
+
+#: core/edit_login.php:175
+#@ ARForms-user-registration
+msgid "Logout Label"
+msgstr "Salir Label"
+
+#: core/edit_profile.php:102
+#: core/edit_user_registration.php:144
+#@ ARForms-user-registration
+msgid "Email Address"
+msgstr "dirección de correo electrónico"
+
+#: core/edit_profile.php:111
+#: core/edit_user_registration.php:116
+#@ ARForms-user-registration
+msgid "First Name"
+msgstr "Nombre de pila"
+
+#: core/edit_profile.php:121
+#: core/edit_user_registration.php:126
+#@ ARForms-user-registration
+msgid "Last Name"
+msgstr "apellido"
+
+#: core/edit_profile.php:130
+#: core/edit_user_registration.php:135
+#@ ARForms-user-registration
+msgid "Display Name"
+msgstr "nombre para mostrar"
+
+#: core/edit_profile.php:154
+#: core/edit_user_registration.php:244
+#@ ARForms-user-registration
+msgid "Duplicate Email"
+msgstr "Duplicate Email"
+
+#: core/edit_profile.php:164
+#: core/edit_user_registration.php:253
+#@ ARForms-user-registration
+msgid "Custom User Meta"
+msgstr "Meta de usuario personalizada"
+
+#: core/edit_user_registration.php:160
+#@ ARForms-user-registration
+msgid "Note: leave this field blank if want to auto generate password"
+msgstr "Nota: deje este campo en blanco si quiere auto generar su contraseña"
+
+#: core/edit_user_registration.php:168
+#@ ARForms-user-registration
+msgid "User Role"
+msgstr "Función de usuario"
+
+#: core/edit_user_registration.php:205
+#@ ARForms-user-registration
+msgid "Auto login after form submission."
+msgstr "Auto de inicio de sesión después de que el envío de formularios."
+
+#: core/edit_user_registration.php:235
+#@ ARForms-user-registration
+msgid "Duplicate Username"
+msgstr "Duplicar Nombre de usuario"
+
+#: core/edit_user_registration.php:223
+#@ ARForms-user-registration
+msgid "Send password to the new user by email after signup."
+msgstr "Enviar contraseña al nuevo usuario por correo electrónico después de registrarse."
+
+#: core/list_forms.php:5
+#@ ARForms-user-registration
+msgid "This form is already deleted."
+msgstr "Este formulario ya ha sido eliminado."
+
+#: core/list_forms.php:398
+#@ ARForms-user-registration
+msgid "DELETE"
+msgstr "BORRAR"
+
+#: core/list_forms.php:399
+#@ ARForms-user-registration
+msgid "Are you sure you want to delete this configuration?"
+msgstr "¿Está seguro de que desea eliminar esta configuración?"
+
+#: core/list_forms.php:401
+#@ ARForms-user-registration
+msgid "Okay"
+msgstr "bueno"
+
+#: core/list_forms.php:407
+#@ ARForms-user-registration
+msgid "Support"
+msgstr "apoyo"
+
+#: arformsusersignup.php:346
+#@ ARForms-user-registration
+msgid "User Signup Configuration"
+msgstr "Configuración de registro de usuario"
+
+#: arformsusersignup.php:3846
+#@ ARForms-user-registration
+msgid "Invalid username or email"
+msgstr "Nombre de usuario o Email inválido"
+
+#: core/edit_change_password.php:47
+#@ ARForms-user-registration
+msgid "Map form with wordpress change password form"
+msgstr "Forma de mapas con la forma de cambio de contraseña de wordpress"
+
+#: core/edit_change_password.php:54
+#: core/edit_forgot_password.php:52
+#: core/edit_login.php:56
+#: core/edit_profile.php:62
+#: core/edit_reset_password.php:53
+#: core/edit_user_registration.php:66
+#@ ARForms-user-registration
+msgid "Map Form"
+msgstr "Formulario Mapa"
+
+#: core/edit_change_password.php:114
+#: core/edit_forgot_password.php:103
+#: core/edit_login.php:135
+#: core/edit_profile.php:148
+#: core/edit_user_registration.php:229
+#@ ARForms-user-registration
+msgid "Validation Error Message"
+msgstr "Mensaje de error de validación"
+
+#: core/edit_change_password.php:129
+#: core/edit_user_registration.php:196
+#@ ARForms-user-registration
+msgid "Advanced Options"
+msgstr "Opciones avanzadas"
+
+#: core/edit_user_registration.php:158
+#@ ARForms-user-registration
+msgid "Hide password column in form entries"
+msgstr "Ocultar la columna contraseña en entradas de la forma"
+
+#: core/edit_forgot_password.php:46
+#@ ARForms-user-registration
+msgid "Map form with wordpress forgot password form"
+msgstr "Forma de mapas con wordpress olvidó formulario de contraseña"
+
+#: core/edit_login.php:49
+#@ ARForms-user-registration
+msgid "Login form"
+msgstr "formulario de entrada"
+
+#: core/edit_login.php:50
+#@ ARForms-user-registration
+msgid "Map form with wordpress login form"
+msgstr "Forma de mapas con formulario de acceso wordpress"
+
+#: core/edit_profile.php:56
+#@ ARForms-user-registration
+msgid "Map form with wordpress edit profile form"
+msgstr "Forma de mapas con wordpress formulario de edición de perfil"
+
+#: core/edit_profile.php:166
+#: core/edit_user_registration.php:255
+#@ ARForms-user-registration
+msgid "Add Blank Meta"
+msgstr "Añadir Meta en blanco"
+
+#: core/edit_profile.php:171
+#: core/edit_user_registration.php:260
+#@ ARForms-user-registration
+msgid "Map Custom Meta"
+msgstr "Mapa Custom Meta"
+
+#: core/edit_user_registration.php:59
+#@ ARForms-user-registration
+msgid "User Signup / Registration Form"
+msgstr "Usuario Solicitud de Admisión / Inscripción"
+
+#: core/edit_user_registration.php:60
+#@ ARForms-user-registration
+msgid "Map form with wordpress registration form"
+msgstr "Forma de mapas con el formulario de inscripción wordpress"
+
+#: core/list_forms.php:25
+#@ ARForms-user-registration
+msgid "User Signup / Registration Configuration"
+msgstr "Alta de usuario / Configuración de Registro"
+
+#: core/list_forms.php:407
+#@ ARForms-user-registration
+msgid "User Signup Documentation"
+msgstr "Inscríbete Documentación del usuario"
+
+#: arformsusersignup.php:4042
+#@ ARForms-user-registration
+msgid "You must loggedin to view this form"
+msgstr "Debes iniciar sesión para ver este formulario"
+
+#: core/edit_change_password.php:89
+#: core/edit_forgot_password.php:87
+#: core/edit_login.php:91
+#: core/edit_profile.php:96
+#: core/edit_reset_password.php:92
+#: core/edit_user_registration.php:101
+#@ ARForms-user-registration
+msgid "Map form fields"
+msgstr "Mapa de campos de formulario"
+
+#: core/edit_change_password.php:135
+#: core/edit_user_registration.php:220
+#@ ARForms-user-registration
+msgid "Send notification"
+msgstr "Enviar una notificación"
+
+#: core/edit_change_password.php:138
+#@ ARForms-user-registration
+msgid "Send password change notification to site administrator by email."
+msgstr "Enviar una notificación de cambio de contraseña de administrador del sitio por correo electrónico."
+
+#: core/edit_login.php:126
+#@ ARForms-user-registration
+msgid "Redirect Url after"
+msgstr "Redirect Url después"
+
+#: core/edit_login.php:126
+#@ ARForms-user-registration
+msgid "Successful login"
+msgstr "Inicio de sesión correcto"
+
+#: core/edit_login.php:155
+#@ ARForms-user-registration
+msgid "Add following shortcode where you want to show Logout button"
+msgstr "Añadir siguiente código corto en el que desea mostrar el botón Salir"
+
+#: core/edit_login.php:184
+#@ ARForms-user-registration
+msgid "Redirect Url after logout"
+msgstr "Redirect Url después de cerrar la sesión"
+
+#: core/edit_login.php:193
+#@ ARForms-user-registration
+msgid "Logout Link / Button Class"
+msgstr "Enlace de Desconexión / Button Clase"
+
+#: core/edit_login.php:202
+#@ ARForms-user-registration
+msgid "Logout Link / Button CSS"
+msgstr "Enlace de Desconexión / botón CSS"
+
+#: core/edit_user_registration.php:202
+#@ ARForms-user-registration
+msgid "Allow Auto-login"
+msgstr "Permitir Auto-login"
+
+#: core/edit_user_registration.php:211
+#@ ARForms-user-registration
+msgid "Redirect url"
+msgstr "Redireccionar URL"
+
+#: core/edit_user_registration.php:211
+#@ ARForms-user-registration
+msgid "Optional"
+msgstr "opcional"
+
+#: core/edit_user_registration.php:220
+#@ ARForms-user-registration
+msgid "On successful signup"
+msgstr "El éxito de inscripción"
+
+#: arformsusersignup.php:268
+#@ ARForms-user-registration
+msgid "User Signup For ARForms plugin requires ARForms plugin installed with version 2.5.2 or higher."
+msgstr "Alta de usuario Para ARForms plugin requiere ARForms plugin instalado con la versión 2.5.2 o superior."
+
+#: core/edit_profile.php:234
+#: core/edit_user_registration.php:326
+#@ ARForms-user-registration
+msgid "BuddyPress Profile Field"
+msgstr "BuddyPress Perfil Campo"
+
+#: core/edit_profile.php:240
+#: core/edit_user_registration.php:332
+#@ ARForms-user-registration
+msgid "Map profile field"
+msgstr "Mapa campo de perfil"
+
+#: arformsusersignup.php:3818
+#: core/edit_reset_password.php:45
+#@ ARForms-user-registration
+msgid "Reset Password"
+msgstr "Restablecer contraseña"
+
+#: core/edit.php:17
+#: core/edit_tab.php:36
+#@ ARForms-user-registration
+msgid "Change / Forgot / Reset Password"
+msgstr "Cambiar / ¿Olvidaste / Restablecer contraseña"
+
+#: core/edit_reset_password.php:46
+#@ ARForms-user-registration
+msgid "Map form with wordpress reset password form"
+msgstr "Forma Mapa con forma de restablecimiento de contraseña wordpress"
+
+#: core/edit_reset_password.php:123
+#@ ARForms-user-registration
+msgid "Map page with wordpress reset password form"
+msgstr "Página de mapas con forma de restablecimiento de contraseña wordpress"
+
+#: core/edit_reset_password.php:129
+#@ ARForms-user-registration
+msgid "Map Page"
+msgstr "Mapa Página"
+
+#: core/edit_login.php:167
+#@ ARForms-user-registration
+msgid "Display Username"
+msgstr "Display Nombre de usuario"
+

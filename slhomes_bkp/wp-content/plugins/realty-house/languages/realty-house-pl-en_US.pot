@@ -1,0 +1,2066 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Realty House Real Estate Plugin\n"
+"POT-Creation-Date: 2017-06-20 11:30+0330\n"
+"PO-Revision-Date: 2017-06-20 11:30+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: fields/agent-rate.php:46 inc/ravisButtons.php:30
+msgid "Agent Rating"
+msgstr ""
+
+#: fields/agent-rate.php:88 inc/shortcode.class.php:1085
+msgid "votes"
+msgstr ""
+
+#: fields/agent.php:23 templates/be-agent.php:31
+#: templates/submit-property.php:24
+msgid "Username"
+msgstr ""
+
+#: fields/agent.php:24
+msgid ""
+"Add the username of the agent, please note that this username can not be "
+"changed in future."
+msgstr ""
+
+#: fields/agent.php:29 fields/property-info.php:182
+#: inc/shortcode.class.php:1684 templates/be-agent.php:55
+#: templates/submit-property.php:313 templates/submit-property.php:317
+msgid "Address"
+msgstr ""
+
+#: fields/agent.php:30
+msgid "Add the address of the agent"
+msgstr ""
+
+#: fields/agent.php:35 inc/shortcode.class.php:2167
+#: inc/shortcode.class.php:2257 templates/be-agent.php:47
+msgid "Phone"
+msgstr ""
+
+#: fields/agent.php:36
+msgid "Add the phone number of the agent"
+msgstr ""
+
+#: fields/agent.php:41 templates/be-agent.php:51
+msgid "Mobile"
+msgstr ""
+
+#: fields/agent.php:42
+msgid "Add the mobile number of the agent"
+msgstr ""
+
+#: fields/agent.php:47 inc/shortcode.class.php:2254 templates/be-agent.php:36
+msgid "Email"
+msgstr ""
+
+#: fields/agent.php:48
+msgid "Add the email of the agent"
+msgstr ""
+
+#: fields/agent.php:53
+msgid "Skype"
+msgstr ""
+
+#: fields/agent.php:54
+msgid "Add the Skype ID of the agent"
+msgstr ""
+
+#: fields/agent.php:59
+msgid "Facebook"
+msgstr ""
+
+#: fields/agent.php:60
+msgid "Add the facebook ID of the agent"
+msgstr ""
+
+#: fields/agent.php:65
+msgid "Twitter"
+msgstr ""
+
+#: fields/agent.php:66
+msgid "Add the twitter ID of the agent"
+msgstr ""
+
+#: fields/agent.php:71
+msgid "Google Plus"
+msgstr ""
+
+#: fields/agent.php:72
+msgid "Add the google plus of the agent"
+msgstr ""
+
+#: fields/agent.php:77
+msgid "Start Date of Membership"
+msgstr ""
+
+#: fields/agent.php:78
+msgid "Add from when this agent is member of your website"
+msgstr ""
+
+#: fields/agent.php:83
+msgid "License"
+msgstr ""
+
+#: fields/agent.php:84
+msgid "Add license number of the agent"
+msgstr ""
+
+#: fields/agent.php:89
+msgid "Agent Background Image"
+msgstr ""
+
+#: fields/agent.php:90
+msgid "Upload your desired image as background image agent boxes."
+msgstr ""
+
+#: fields/agent.php:104
+msgid "Additional information"
+msgstr ""
+
+#: fields/agent.php:155 fields/page-id-class.php:110
+msgid "Choose Image"
+msgstr ""
+
+#: fields/agent.php:156 fields/page-id-class.php:111
+msgid "Remove Image"
+msgstr ""
+
+#: fields/page-id-class.php:22
+msgid "Page ID"
+msgstr ""
+
+#: fields/page-id-class.php:23
+msgid ""
+"Add your custom ID for using it to change the default style. List of the "
+"default page IDs are <a href=\"#\" target=\"_blank\">here</a>"
+msgstr ""
+
+#: fields/page-id-class.php:28
+msgid "Page Class"
+msgstr ""
+
+#: fields/page-id-class.php:29
+msgid ""
+"Add your custom class for using it to change the default style. List of the "
+"default page classes are <a href=\"#\" target=\"_blank\">here</a>"
+msgstr ""
+
+#: fields/page-id-class.php:34
+msgid "Map on Breadcrumb"
+msgstr ""
+
+#: fields/page-id-class.php:35
+msgid ""
+"Check if you want to show the map instead of image for your breadcrumb. If "
+"you check this checkbox the below image will be overridden by Google Map."
+msgstr ""
+
+#: fields/page-id-class.php:40
+msgid "Page Breadcrumb Background"
+msgstr ""
+
+#: fields/page-id-class.php:42
+msgid "Upload your desired image as page's breadcrumb."
+msgstr ""
+
+#: fields/page-id-class.php:56
+msgid "Page Setting"
+msgstr ""
+
+#: fields/property-agents.php:27 inc/ravisButtons.php:31 realty-house.php:339
+msgid "Agents"
+msgstr ""
+
+#: fields/property-agents.php:28
+msgid "Select the agents for this property"
+msgstr ""
+
+#: fields/property-agents.php:74 fields/property-agents.php:94
+#: templates/submit-property.php:616 templates/submit-property.php:622
+msgid "Property Agents"
+msgstr ""
+
+#: fields/property-info.php:61 inc/ravisButtons.php:356
+#: inc/shortcode.class.php:1583 inc/shortcode.class.php:1819
+#: templates/property-compare.php:31
+#: widgets/realty-house-search-property.php:85
+#: widgets/realty-house-search-property.php:328
+msgid "Property Status"
+msgstr ""
+
+#: fields/property-info.php:62
+msgid "Change the property status by this field"
+msgstr ""
+
+#: fields/property-info.php:68 inc/ravisButtons.php:364
+#: inc/shortcode.class.php:1600 inc/shortcode.class.php:1835
+#: templates/property-compare.php:30
+#: widgets/realty-house-search-property.php:100
+#: widgets/realty-house-search-property.php:335
+msgid "Property Type"
+msgstr ""
+
+#: fields/property-info.php:69
+msgid "Change the property type by this field"
+msgstr ""
+
+#: fields/property-info.php:75 inc/shortcode.class.php:1617
+#: inc/shortcode.class.php:1858 widgets/realty-house-search-property.php:116
+msgid "Bedroom"
+msgstr ""
+
+#: fields/property-info.php:76 fields/property-info.php:82
+msgid "Add the bedroom counts in this field"
+msgstr ""
+
+#: fields/property-info.php:81 inc/shortcode.class.php:1633
+#: inc/shortcode.class.php:1873 templates/property-compare.php:33
+#: templates/submit-property.php:170
+#: widgets/realty-house-search-property.php:132
+msgid "Bathroom"
+msgstr ""
+
+#: fields/property-info.php:87
+msgid "Total Building Size "
+msgstr ""
+
+#: fields/property-info.php:88
+msgid "Add the area of Building in \"SQF\""
+msgstr ""
+
+#: fields/property-info.php:93
+msgid "Total Lot Size "
+msgstr ""
+
+#: fields/property-info.php:94
+msgid "Add the area of loy in \"SQF\""
+msgstr ""
+
+#: fields/property-info.php:99 inc/shortcode.class.php:1657
+#: inc/shortcode.class.php:1888 templates/property-compare.php:36
+#: templates/submit-property.php:214
+#: widgets/realty-house-search-property.php:148
+#: widgets/realty-house-search-property.php:356
+msgid "Garages"
+msgstr ""
+
+#: fields/property-info.php:100
+msgid "Add the count of parkings in this field"
+msgstr ""
+
+#: fields/property-info.php:105 templates/property-compare.php:37
+#: templates/submit-property.php:230
+msgid "Construction Status"
+msgstr ""
+
+#: fields/property-info.php:106
+msgid "Select the construction status of property"
+msgstr ""
+
+#: fields/property-info.php:111 inc/get_info.class.php:60
+#: templates/submit-property.php:233
+msgid "Existing"
+msgstr ""
+
+#: fields/property-info.php:115 inc/get_info.class.php:56
+#: templates/submit-property.php:237
+msgid "Under Construction/Proposed"
+msgstr ""
+
+#: fields/property-info.php:122 inc/shortcode.class.php:1672
+#: inc/shortcode.class.php:1902 widgets/realty-house-search-property.php:163
+#: widgets/realty-house-search-property.php:377
+msgid "Keywords"
+msgstr ""
+
+#: fields/property-info.php:123
+msgid "Add the keywords for this property and separate theme with comma"
+msgstr ""
+
+#: fields/property-info.php:128
+msgid "Property Visits"
+msgstr ""
+
+#: fields/property-info.php:129
+msgid "How many times this property was visited."
+msgstr ""
+
+#: fields/property-info.php:136 widgets/realty-house-search-property.php:363
+msgid "Price"
+msgstr ""
+
+#: fields/property-info.php:137
+msgid "Add price of the property"
+msgstr ""
+
+#: fields/property-info.php:142 templates/submit-property.php:285
+msgid "Keep Price Confidential"
+msgstr ""
+
+#: fields/property-info.php:143
+msgid ""
+"If you want to hidden the price and replace it with \"Call Us\", check this "
+"checkbox"
+msgstr ""
+
+#: fields/property-info.php:148
+msgid "Price Type"
+msgstr ""
+
+#: fields/property-info.php:149
+msgid "Please select the type of price"
+msgstr ""
+
+#: fields/property-info.php:154 inc/get_info.class.php:94
+#: templates/submit-property.php:296
+msgid "Per Month"
+msgstr ""
+
+#: fields/property-info.php:158 inc/get_info.class.php:97
+#: templates/submit-property.php:297
+msgid "Per Week"
+msgstr ""
+
+#: fields/property-info.php:162 inc/get_info.class.php:100
+#: templates/submit-property.php:298
+msgid "Per Night"
+msgstr ""
+
+#: fields/property-info.php:166 inc/get_info.class.php:103
+#: templates/submit-property.php:299
+msgid "Annual"
+msgstr ""
+
+#: fields/property-info.php:174 fields/property-info.php:272
+msgid "Image Gallery"
+msgstr ""
+
+#: fields/property-info.php:175
+msgid "Add the images of the property"
+msgstr ""
+
+#: fields/property-info.php:183
+msgid "Enter the address of property"
+msgstr ""
+
+#: fields/property-info.php:188 templates/submit-property.php:330
+msgid "Longitude"
+msgstr ""
+
+#: fields/property-info.php:189
+msgid "Enter the longitude of property"
+msgstr ""
+
+#: fields/property-info.php:194
+msgid "Latitude "
+msgstr ""
+
+#: fields/property-info.php:195
+msgid "Enter the latitude of property"
+msgstr ""
+
+#: fields/property-info.php:202 fields/property-info.php:510
+#: templates/submit-property.php:348
+msgid "Neighborhood"
+msgstr ""
+
+#: fields/property-info.php:203
+msgid "Add neighborhoods of property with this field."
+msgstr ""
+
+#: fields/property-info.php:210 fields/property-info.php:565
+#: templates/submit-property.php:376
+msgid "Nearby Schools"
+msgstr ""
+
+#: fields/property-info.php:211
+msgid "Add nearby schools of property with this field."
+msgstr ""
+
+#: fields/property-info.php:218 fields/property-info.php:623
+#: templates/submit-property.php:410
+#: widgets/realty-house-search-property.php:385
+msgid "Amenities"
+msgstr ""
+
+#: fields/property-info.php:219
+msgid "Add amenities of property with this field."
+msgstr ""
+
+#: fields/property-info.php:226 templates/submit-property.php:463
+msgid "Facts"
+msgstr ""
+
+#: fields/property-info.php:227
+msgid "Add some facts about the property by this field."
+msgstr ""
+
+#: fields/property-info.php:234 inc/get_info.class.php:205
+#: inc/shortcode.class.php:1731 inc/shortcode.class.php:1949
+#: templates/submit-property.php:498 templates/submit-property.php:504
+#: widgets/realty-house-search-property.php:217
+msgid "New"
+msgstr ""
+
+#: fields/property-info.php:235
+msgid "Check this checkbox if the property is new"
+msgstr ""
+
+#: fields/property-info.php:240 inc/get_info.class.php:211
+#: inc/shortcode.class.php:1740 inc/shortcode.class.php:1958
+#: templates/submit-property.php:510 templates/submit-property.php:516
+#: widgets/realty-house-search-property.php:226
+msgid "Hot Offer"
+msgstr ""
+
+#: fields/property-info.php:241
+msgid "Check this checkbox if the property is hot offer"
+msgstr ""
+
+#: fields/property-info.php:246 inc/get_info.class.php:217
+#: inc/shortcode.class.php:1749 inc/shortcode.class.php:1967
+#: templates/submit-property.php:522 templates/submit-property.php:528
+#: widgets/realty-house-search-property.php:235
+msgid "Featured"
+msgstr ""
+
+#: fields/property-info.php:247
+msgid "Check this checkbox if the property is featured"
+msgstr ""
+
+#: fields/property-info.php:252 inc/get_info.class.php:223
+#: inc/shortcode.class.php:1758 inc/shortcode.class.php:1976
+#: templates/submit-property.php:534 templates/submit-property.php:540
+#: widgets/realty-house-search-property.php:244
+msgid "Price Cut"
+msgstr ""
+
+#: fields/property-info.php:253
+msgid "Check this checkbox if the property's price is cut off"
+msgstr ""
+
+#: fields/property-info.php:258 inc/get_info.class.php:229
+#: inc/shortcode.class.php:1767 inc/shortcode.class.php:1985
+#: templates/submit-property.php:546 templates/submit-property.php:552
+#: widgets/realty-house-search-property.php:253
+msgid "Open House"
+msgstr ""
+
+#: fields/property-info.php:259
+msgid "Check this checkbox if the property is open house"
+msgstr ""
+
+#: fields/property-info.php:264 inc/get_info.class.php:235
+#: inc/shortcode.class.php:1776 inc/shortcode.class.php:1994
+#: templates/submit-property.php:558 templates/submit-property.php:564
+#: widgets/realty-house-search-property.php:262
+msgid "Foreclosure"
+msgstr ""
+
+#: fields/property-info.php:265
+msgid "Check this checkbox if the property is foreclosure"
+msgstr ""
+
+#: fields/property-info.php:273
+msgid "Add the floor plan of the property"
+msgstr ""
+
+#: fields/property-info.php:280
+msgid "Property Attachments"
+msgstr ""
+
+#: fields/property-info.php:281
+msgid "Add the attachment of the property"
+msgstr ""
+
+#: fields/property-info.php:288
+msgid "Video"
+msgstr ""
+
+#: fields/property-info.php:289
+msgid "Add an embed code of property's video in this field."
+msgstr ""
+
+#: fields/property-info.php:301
+msgid "Property info"
+msgstr ""
+
+#: fields/property-info.php:329
+msgid "Basic Details"
+msgstr ""
+
+#: fields/property-info.php:332
+msgid "Property ID :"
+msgstr ""
+
+#: fields/property-info.php:365
+msgid "Times"
+msgstr ""
+
+#: fields/property-info.php:365
+msgid "Time"
+msgstr ""
+
+#: fields/property-info.php:375 fields/property-offers.php:44
+#: inc/price-offers-view.php:15 inc/ravisButtons.php:396
+#: templates/property-compare.php:38 templates/submit-property.php:270
+msgid "Property Price"
+msgstr ""
+
+#: fields/property-info.php:422 templates/submit-property.php:440
+msgid "Property Images"
+msgstr ""
+
+#: fields/property-info.php:451 fields/property-info.php:748
+#: fields/property-info.php:798 fields/property-info.php:802
+msgid "Delete image"
+msgstr ""
+
+#: fields/property-info.php:458
+msgid "Add images"
+msgstr ""
+
+#: fields/property-info.php:469 inc/ravisButtons.php:348
+#: templates/submit-property.php:307
+#: widgets/realty-house-search-property.php:321
+msgid "Property Location"
+msgstr ""
+
+#: fields/property-info.php:535 fields/property-info.php:550
+#: templates/search-property.php:207 templates/submit-property.php:360
+#: templates/user-panel.php:35
+msgid "Title"
+msgstr ""
+
+#: fields/property-info.php:536 fields/property-info.php:551
+#: fields/property-info.php:593 fields/property-info.php:609
+#: templates/submit-property.php:363 templates/submit-property.php:397
+msgid "Distance"
+msgstr ""
+
+#: fields/property-info.php:545 fields/property-info.php:601
+#: fields/property-info.php:675
+msgid "Add New"
+msgstr ""
+
+#: fields/property-info.php:590 fields/property-info.php:606
+#: templates/submit-property.php:388
+msgid "Rating"
+msgstr ""
+
+#: fields/property-info.php:591 fields/property-info.php:607
+#: templates/submit-property.php:391
+msgid "School's Name"
+msgstr ""
+
+#: fields/property-info.php:592 fields/property-info.php:608
+#: templates/submit-property.php:394
+msgid "School's Grade"
+msgstr ""
+
+#: fields/property-info.php:642
+msgid "Property Facts"
+msgstr ""
+
+#: fields/property-info.php:667 fields/property-info.php:680
+#: templates/submit-property.php:476
+msgid "Insert a fact"
+msgstr ""
+
+#: fields/property-info.php:695 inc/shortcode.class.php:1723
+#: widgets/realty-house-search-property.php:392
+msgid "Tags"
+msgstr ""
+
+#: fields/property-info.php:718
+msgid "Property Floor Plan"
+msgstr ""
+
+#: fields/property-info.php:755
+msgid "Add Floor Plans"
+msgstr ""
+
+#: fields/property-info.php:766 templates/submit-property.php:595
+msgid "Property Attachment"
+msgstr ""
+
+#: fields/property-info.php:810
+msgid "Add Attachments"
+msgstr ""
+
+#: fields/property-info.php:820
+msgid "Property Video"
+msgstr ""
+
+#: fields/property-offers.php:18 fields/property-offers.php:31
+msgid "Property Offer"
+msgstr ""
+
+#: fields/property-offers.php:43 inc/price-offers-view.php:14
+#: templates/property-compare.php:29 templates/submit-property.php:97
+#: templates/submit-property.php:101
+msgid "Property Title"
+msgstr ""
+
+#: fields/property-offers.php:45 inc/price-offers-view.php:16
+msgid "Offer"
+msgstr ""
+
+#: fields/property-offers.php:46 inc/price-offers-view.php:17
+msgid "Date"
+msgstr ""
+
+#: fields/property-offers.php:76 inc/price-offers-view.php:60
+msgid "More Details"
+msgstr ""
+
+#: fields/property-offers.php:83 inc/price-offers-view.php:67
+msgid "Name : "
+msgstr ""
+
+#: fields/property-offers.php:86 inc/price-offers-view.php:70
+msgid "Email : "
+msgstr ""
+
+#: fields/property-offers.php:89 inc/price-offers-view.php:73
+msgid "Phone : "
+msgstr ""
+
+#: fields/property-offers.php:92 inc/price-offers-view.php:76
+#: inc/ravisButtons.php:330
+msgid "Description : "
+msgstr ""
+
+#: fields/property-offers.php:104
+msgid "There is not any offers for this property."
+msgstr ""
+
+#: fields/services.php:23
+msgid "Service Icon"
+msgstr ""
+
+#: fields/services.php:24
+msgid "Add the title of related icon to this field."
+msgstr ""
+
+#: fields/services.php:38
+msgid "Service Extra Information"
+msgstr ""
+
+#: fields/testimonials.php:22
+msgid "Guest Location"
+msgstr ""
+
+#: fields/testimonials.php:23
+msgid "Put the guest's Location in this field"
+msgstr ""
+
+#: fields/testimonials.php:28
+msgid "Guest Email"
+msgstr ""
+
+#: fields/testimonials.php:29
+msgid "Put the guest's email in this field"
+msgstr ""
+
+#: fields/testimonials.php:34
+msgid "Guest Phone"
+msgstr ""
+
+#: fields/testimonials.php:35
+msgid "Put the guest's phone in this field"
+msgstr ""
+
+#: fields/testimonials.php:49
+msgid "Testimonials Extra information"
+msgstr ""
+
+#: inc/bookmark_property.class.php:79
+msgid "The property is removed from your bookmarked properties."
+msgstr ""
+
+#: inc/bookmark_property.class.php:86 inc/bookmark_property.class.php:112
+msgid "The property is bookmarked."
+msgstr ""
+
+#: inc/currency.class.php:108
+msgid "All the currencies are update"
+msgstr ""
+
+#: inc/get_info.class.php:36
+msgid "sqft"
+msgstr ""
+
+#: inc/get_info.class.php:122
+msgid "Call Us"
+msgstr ""
+
+#: inc/get_property.class.php:55 inc/shortcode.class.php:1211
+#: templates/property-bookmark.php:101
+#: templates/property-listing-masonry.php:129
+#: templates/property-listing-rows.php:124 templates/property-listing.php:103
+#: templates/search-property.php:305 templates/search-property.php:422
+#: templates/search-property.php:604
+msgid "See Now"
+msgstr ""
+
+#: inc/get_property.class.php:71
+msgid "There is no related property."
+msgstr ""
+
+#: inc/insert_posts.class.php:233 inc/insert_posts.class.php:373
+msgid ""
+"Thanks for submission, your property will be available after confirmation of "
+"administration of website."
+msgstr ""
+
+#: inc/insert_posts.class.php:239 inc/insert_posts.class.php:393
+msgid "Please fill all the required fields"
+msgstr ""
+
+#: inc/insert_posts.class.php:246 inc/insert_posts.class.php:400
+msgid "Are you cheating?"
+msgstr ""
+
+#: inc/insert_posts.class.php:273 templates/be-agent.php:44
+msgid "Email and its confirmation fields are not the same"
+msgstr ""
+
+#: inc/insert_posts.class.php:379
+msgid "Your account is pending now, please be patient to be approved."
+msgstr ""
+
+#: inc/insert_posts.class.php:386
+msgid "You have already registered. Please try another Username or Email."
+msgstr ""
+
+#: inc/price-offer.class.php:46
+msgid "Thanks for sending your offer."
+msgstr ""
+
+#: inc/price-offer.class.php:53
+msgid ""
+"Because of some technical issues you can not send your offer, please try "
+"again later."
+msgstr ""
+
+#: inc/price-offer.class.php:61
+msgid "You have already sent your offer."
+msgstr ""
+
+#: inc/price-offer.class.php:69 inc/price-offer.class.php:133
+#: inc/saved-search.class.php:63 inc/saved-search.class.php:128
+msgid "Please provide all the required information."
+msgstr ""
+
+#: inc/price-offer.class.php:77 inc/price-offer.class.php:141
+#: inc/saved-search.class.php:72 inc/saved-search.class.php:136
+msgid "Are your cheating?"
+msgstr ""
+
+#: inc/price-offer.class.php:110 inc/saved-search.class.php:105
+msgid "The was removed."
+msgstr ""
+
+#: inc/price-offer.class.php:117 inc/saved-search.class.php:112
+msgid ""
+"Because of some technical issue, this item can not be removed. Please try "
+"again."
+msgstr ""
+
+#: inc/price-offer.class.php:125 inc/saved-search.class.php:120
+msgid "We can not find this record in database."
+msgstr ""
+
+#: inc/price-offers-view.php:9
+msgid "Price Offers List"
+msgstr ""
+
+#: inc/ravisButtons.php:16
+msgid "Insert"
+msgstr ""
+
+#: inc/ravisButtons.php:20
+msgid "ShortCode : "
+msgstr ""
+
+#: inc/ravisButtons.php:22
+msgid "Select a shortcode"
+msgstr ""
+
+#: inc/ravisButtons.php:23
+msgid "Social Icons"
+msgstr ""
+
+#: inc/ravisButtons.php:24
+msgid "Main Gallery"
+msgstr ""
+
+#: inc/ravisButtons.php:25
+msgid "Services"
+msgstr ""
+
+#: inc/ravisButtons.php:26
+msgid "Main Slider"
+msgstr ""
+
+#: inc/ravisButtons.php:27 inc/templater.class.php:41
+msgid "Be an Agent"
+msgstr ""
+
+#: inc/ravisButtons.php:28 inc/ravisButtons.php:111
+#: inc/shortcode.class.php:396
+msgid "Fun Facts"
+msgstr ""
+
+#: inc/ravisButtons.php:29
+msgid "Property Slider"
+msgstr ""
+
+#: inc/ravisButtons.php:32 realty-house.php:266
+msgid "Testimonials"
+msgstr ""
+
+#: inc/ravisButtons.php:33 inc/ravisButtons.php:186 inc/ravisButtons.php:241
+#: inc/shortcode.class.php:751 widgets/realty-house-new-properties.php:93
+msgid "New Properties"
+msgstr ""
+
+#: inc/ravisButtons.php:34 inc/ravisButtons.php:174
+#: inc/shortcode.class.php:740
+msgid "Other Properties"
+msgstr ""
+
+#: inc/ravisButtons.php:35
+msgid "Map Listing"
+msgstr ""
+
+#: inc/ravisButtons.php:36
+msgid "Contact Section"
+msgstr ""
+
+#: inc/ravisButtons.php:37
+msgid "Video Section"
+msgstr ""
+
+#: inc/ravisButtons.php:38
+msgid "Search Form"
+msgstr ""
+
+#: inc/ravisButtons.php:39
+msgid "Currency Switcher"
+msgstr ""
+
+#: inc/ravisButtons.php:40
+msgid "Promo Section"
+msgstr ""
+
+#: inc/ravisButtons.php:42
+msgid "Please select the shortcode you want to add."
+msgstr ""
+
+#: inc/ravisButtons.php:44
+msgid "This shortcode doesn't have any attributes"
+msgstr ""
+
+#: inc/ravisButtons.php:47
+msgid "ID : "
+msgstr ""
+
+#: inc/ravisButtons.php:49
+msgid "Add the id attribute of the social icons container."
+msgstr ""
+
+#: inc/ravisButtons.php:54 inc/ravisButtons.php:71 inc/ravisButtons.php:88
+#: inc/ravisButtons.php:110 inc/ravisButtons.php:124 inc/ravisButtons.php:136
+#: inc/ravisButtons.php:156 inc/ravisButtons.php:173 inc/ravisButtons.php:288
+#: inc/ravisButtons.php:305
+msgid "Title : "
+msgstr ""
+
+#: inc/ravisButtons.php:55 inc/shortcode.class.php:280
+msgid "Our Gallery"
+msgstr ""
+
+#: inc/ravisButtons.php:56
+msgid "Add title of main gallery section in this field."
+msgstr ""
+
+#: inc/ravisButtons.php:59
+msgid "Columns : "
+msgstr ""
+
+#: inc/ravisButtons.php:61
+msgid "Add in how many columns you want main gallery to be shown."
+msgstr ""
+
+#: inc/ravisButtons.php:64
+msgid "Image Count : "
+msgstr ""
+
+#: inc/ravisButtons.php:66
+msgid "Add how many images you want to show in main gallery."
+msgstr ""
+
+#: inc/ravisButtons.php:72 inc/shortcode.class.php:109
+msgid "Our Services"
+msgstr ""
+
+#: inc/ravisButtons.php:73
+msgid "Add title of services section in this field."
+msgstr ""
+
+#: inc/ravisButtons.php:76
+msgid "Post Count : "
+msgstr ""
+
+#: inc/ravisButtons.php:78
+msgid "Add how many posts you want to show in services section."
+msgstr ""
+
+#: inc/ravisButtons.php:81 inc/ravisButtons.php:166
+msgid "Class : "
+msgstr ""
+
+#: inc/ravisButtons.php:83
+msgid "Add the class of container box of services section."
+msgstr ""
+
+#: inc/ravisButtons.php:89 inc/shortcode.class.php:362
+msgid "Become a Real Estate Agent"
+msgstr ""
+
+#: inc/ravisButtons.php:90
+msgid "Add title of be an agent section in this field."
+msgstr ""
+
+#: inc/ravisButtons.php:93 inc/ravisButtons.php:310
+msgid "Subtitle : "
+msgstr ""
+
+#: inc/ravisButtons.php:94 inc/shortcode.class.php:363
+msgid "Join us and our real estate community members!"
+msgstr ""
+
+#: inc/ravisButtons.php:95
+msgid "Add subtitle of be an agent section in this field."
+msgstr ""
+
+#: inc/ravisButtons.php:98
+msgid "Background Image : "
+msgstr ""
+
+#: inc/ravisButtons.php:100
+msgid "Add the URL of background image of this section."
+msgstr ""
+
+#: inc/ravisButtons.php:103
+msgid "Agent Image : "
+msgstr ""
+
+#: inc/ravisButtons.php:105
+msgid "Add the URL of agent image for this section."
+msgstr ""
+
+#: inc/ravisButtons.php:112
+msgid "Add title of fun facts section in this field."
+msgstr ""
+
+#: inc/ravisButtons.php:117
+msgid "Property IDs : "
+msgstr ""
+
+#: inc/ravisButtons.php:119
+msgid ""
+"Add the comma separated value (CSV) of property IDs that you want to be "
+"shown in property slider."
+msgstr ""
+
+#: inc/ravisButtons.php:125 inc/shortcode.class.php:523
+msgid "Our Agents"
+msgstr ""
+
+#: inc/ravisButtons.php:126
+msgid "Add title of agents section in this field."
+msgstr ""
+
+#: inc/ravisButtons.php:129
+msgid "Box Count : "
+msgstr ""
+
+#: inc/ravisButtons.php:131
+msgid "Add how many agent box you want to show in agent section."
+msgstr ""
+
+#: inc/ravisButtons.php:137 inc/shortcode.class.php:612
+msgid "What Clients Say"
+msgstr ""
+
+#: inc/ravisButtons.php:138
+msgid "Add title of testimonials section in this field."
+msgstr ""
+
+#: inc/ravisButtons.php:141
+msgid "Count : "
+msgstr ""
+
+#: inc/ravisButtons.php:143
+msgid "Add how many testimonials you want to show in testimonial section."
+msgstr ""
+
+#: inc/ravisButtons.php:146 inc/ravisButtons.php:337
+msgid "Type : "
+msgstr ""
+
+#: inc/ravisButtons.php:148 inc/ravisButtons.php:339
+msgid "Simple"
+msgstr ""
+
+#: inc/ravisButtons.php:149
+msgid "Tab"
+msgstr ""
+
+#: inc/ravisButtons.php:151
+msgid "Select which type of testimonial section you want."
+msgstr ""
+
+#: inc/ravisButtons.php:157 inc/shortcode.class.php:1107
+msgid "Our Listings"
+msgstr ""
+
+#: inc/ravisButtons.php:158
+msgid "Add title of new properties section in this field."
+msgstr ""
+
+#: inc/ravisButtons.php:161
+msgid "Property Count : "
+msgstr ""
+
+#: inc/ravisButtons.php:163
+msgid "Add how many properties you want to show in new properties section."
+msgstr ""
+
+#: inc/ravisButtons.php:168
+msgid "Add a class for the container box of properties section."
+msgstr ""
+
+#: inc/ravisButtons.php:175
+msgid "Add title of other properties section in this field."
+msgstr ""
+
+#: inc/ravisButtons.php:178 inc/ravisButtons.php:233
+msgid "Property Status : "
+msgstr ""
+
+#: inc/ravisButtons.php:180
+msgid ""
+"Add the comma separated value (CSV) of property statuses that you want to be "
+"shown in other properties section."
+msgstr ""
+
+#: inc/ravisButtons.php:188
+msgid ""
+"Check this checkbox if you want to show properties with New Tags be shown in "
+"other properties section"
+msgstr ""
+
+#: inc/ravisButtons.php:194 inc/ravisButtons.php:249
+#: inc/shortcode.class.php:752
+msgid "Hot Offer Properties"
+msgstr ""
+
+#: inc/ravisButtons.php:196
+msgid ""
+"Check this checkbox if you want to show properties with Hot Offer Tags be "
+"shown in other properties section"
+msgstr ""
+
+#: inc/ravisButtons.php:202 inc/ravisButtons.php:257
+#: inc/shortcode.class.php:753
+msgid "Featured Properties"
+msgstr ""
+
+#: inc/ravisButtons.php:204
+msgid ""
+"Check this checkbox if you want to show properties with Featured Tags be "
+"shown in other properties section"
+msgstr ""
+
+#: inc/ravisButtons.php:210 inc/ravisButtons.php:265
+#: inc/shortcode.class.php:754
+msgid "Price Cut Properties"
+msgstr ""
+
+#: inc/ravisButtons.php:212
+msgid ""
+"Check this checkbox if you want to show properties with Price Cut Tags be "
+"shown in other properties section"
+msgstr ""
+
+#: inc/ravisButtons.php:218 inc/ravisButtons.php:273
+#: inc/shortcode.class.php:755
+msgid "Open House Properties"
+msgstr ""
+
+#: inc/ravisButtons.php:220
+msgid ""
+"Check this checkbox if you want to show properties with Open House Tags be "
+"shown in other properties section"
+msgstr ""
+
+#: inc/ravisButtons.php:226 inc/ravisButtons.php:281
+#: inc/shortcode.class.php:756
+msgid "Foreclosure Properties"
+msgstr ""
+
+#: inc/ravisButtons.php:228
+msgid ""
+"Check this checkbox if you want to show properties with Foreclosure Tags be "
+"shown in other properties section"
+msgstr ""
+
+#: inc/ravisButtons.php:235
+msgid ""
+"Add the comma separated value (CSV) of property statuses that you want to be "
+"shown in map properties section."
+msgstr ""
+
+#: inc/ravisButtons.php:243
+msgid ""
+"Check this checkbox if you want to show properties with New Tags be shown in "
+"map properties section"
+msgstr ""
+
+#: inc/ravisButtons.php:251
+msgid ""
+"Check this checkbox if you want to show properties with Hot Offer Tags be "
+"shown in map properties section"
+msgstr ""
+
+#: inc/ravisButtons.php:259
+msgid ""
+"Check this checkbox if you want to show properties with Featured Tags be "
+"shown in map properties section"
+msgstr ""
+
+#: inc/ravisButtons.php:267
+msgid ""
+"Check this checkbox if you want to show properties with Price Cut Tags be "
+"shown in map properties section"
+msgstr ""
+
+#: inc/ravisButtons.php:275
+msgid ""
+"Check this checkbox if you want to show properties with Open House Tags be "
+"shown in map properties section"
+msgstr ""
+
+#: inc/ravisButtons.php:283
+msgid ""
+"Check this checkbox if you want to show properties with Foreclosure Tags be "
+"shown in map properties section"
+msgstr ""
+
+#: inc/ravisButtons.php:289 inc/shortcode.class.php:1504
+msgid "Get In Touch"
+msgstr ""
+
+#: inc/ravisButtons.php:290
+msgid "Add title of contact section in this field."
+msgstr ""
+
+#: inc/ravisButtons.php:293
+msgid "Contact 7 ID : "
+msgstr ""
+
+#: inc/ravisButtons.php:295
+msgid "Add the ID of contact 7 contact form in this field."
+msgstr ""
+
+#: inc/ravisButtons.php:298
+msgid "Image : "
+msgstr ""
+
+#: inc/ravisButtons.php:300
+msgid "Add the URL of the image you want to be shown in this section."
+msgstr ""
+
+#: inc/ravisButtons.php:306 inc/shortcode.class.php:959
+msgid "Take a Video Tour!"
+msgstr ""
+
+#: inc/ravisButtons.php:307
+msgid "Add title of video section in this field."
+msgstr ""
+
+#: inc/ravisButtons.php:311 inc/shortcode.class.php:960
+msgid "Customized Marketing"
+msgstr ""
+
+#: inc/ravisButtons.php:312
+msgid "Add subtitle of video section in this field."
+msgstr ""
+
+#: inc/ravisButtons.php:315
+msgid "Button Text : "
+msgstr ""
+
+#: inc/ravisButtons.php:316 inc/shortcode.class.php:961
+msgid "Take Tour"
+msgstr ""
+
+#: inc/ravisButtons.php:317
+msgid "Add button text of video section in this field."
+msgstr ""
+
+#: inc/ravisButtons.php:320
+msgid "Video Image : "
+msgstr ""
+
+#: inc/ravisButtons.php:322
+msgid "Add the URL of video that image you want to be shown in this section."
+msgstr ""
+
+#: inc/ravisButtons.php:325
+msgid "Video URL : "
+msgstr ""
+
+#: inc/ravisButtons.php:327
+msgid "Add the URL of video that you want to be shown in this section."
+msgstr ""
+
+#: inc/ravisButtons.php:332
+msgid "Add description about the video in this field."
+msgstr ""
+
+#: inc/ravisButtons.php:340
+msgid "Accordion"
+msgstr ""
+
+#: inc/ravisButtons.php:342
+msgid "Select which type of search box you want."
+msgstr ""
+
+#: inc/ravisButtons.php:350
+msgid ""
+"Check this checkbox if you want to have property location field in search "
+"shortcode."
+msgstr ""
+
+#: inc/ravisButtons.php:358
+msgid ""
+"Check this checkbox if you want to have property status field in search "
+"shortcode."
+msgstr ""
+
+#: inc/ravisButtons.php:366
+msgid ""
+"Check this checkbox if you want to have property type field in search "
+"shortcode."
+msgstr ""
+
+#: inc/ravisButtons.php:372
+msgid "Property Bedrooms"
+msgstr ""
+
+#: inc/ravisButtons.php:374
+msgid ""
+"Check this checkbox if you want to have property bedrooms field in search "
+"shortcode."
+msgstr ""
+
+#: inc/ravisButtons.php:380
+msgid "Property Bathroom"
+msgstr ""
+
+#: inc/ravisButtons.php:382
+msgid ""
+"Check this checkbox if you want to have property bathroom field in search "
+"shortcode."
+msgstr ""
+
+#: inc/ravisButtons.php:388
+msgid "Property Garages"
+msgstr ""
+
+#: inc/ravisButtons.php:390
+msgid ""
+"Check this checkbox if you want to have property garages field in search "
+"shortcode."
+msgstr ""
+
+#: inc/ravisButtons.php:398
+msgid ""
+"Check this checkbox if you want to have property price field in search "
+"shortcode."
+msgstr ""
+
+#: inc/ravisButtons.php:401
+msgid "Max Price : "
+msgstr ""
+
+#: inc/ravisButtons.php:403
+msgid "Set the max price of price range slider."
+msgstr ""
+
+#: inc/ravisButtons.php:409 templates/submit-property.php:244
+msgid "Property Keywords"
+msgstr ""
+
+#: inc/ravisButtons.php:411
+msgid ""
+"Check this checkbox if you want to have property keywords field in search "
+"shortcode."
+msgstr ""
+
+#: inc/ravisButtons.php:417
+msgid "Property Amenities"
+msgstr ""
+
+#: inc/ravisButtons.php:419
+msgid ""
+"Check this checkbox if you want to have property amenities field in search "
+"shortcode."
+msgstr ""
+
+#: inc/ravisButtons.php:425 templates/property-compare.php:48
+#: templates/submit-property.php:489
+msgid "Property Tags"
+msgstr ""
+
+#: inc/ravisButtons.php:427
+msgid ""
+"Check this checkbox if you want to have property tags field in search "
+"shortcode."
+msgstr ""
+
+#: inc/saved-search.class.php:40
+msgid "Your search is saved correctly."
+msgstr ""
+
+#: inc/saved-search.class.php:47
+msgid "Because of some technical issue we can not save your search."
+msgstr ""
+
+#: inc/saved-search.class.php:55
+msgid "You have already saved this search."
+msgstr ""
+
+#: inc/shortcode.class.php:76
+msgid "No Image"
+msgstr ""
+
+#: inc/shortcode.class.php:84 inc/shortcode.class.php:341
+msgid "There is not any slides"
+msgstr ""
+
+#: inc/shortcode.class.php:165
+msgid "There is not any services"
+msgstr ""
+
+#: inc/shortcode.class.php:327
+msgid "Enlarge"
+msgstr ""
+
+#: inc/shortcode.class.php:375 inc/shortcode.class.php:493
+msgid "More Info"
+msgstr ""
+
+#: inc/shortcode.class.php:405
+msgid "All Properties"
+msgstr ""
+
+#: inc/shortcode.class.php:410
+msgid "Active Properties"
+msgstr ""
+
+#: inc/shortcode.class.php:415
+msgid "Sold Properties"
+msgstr ""
+
+#: inc/shortcode.class.php:420
+msgid "Professional Agents"
+msgstr ""
+
+#: inc/shortcode.class.php:472
+msgid "Listing ID :"
+msgstr ""
+
+#: inc/shortcode.class.php:476
+msgid "Location :"
+msgstr ""
+
+#: inc/shortcode.class.php:480
+msgid "Status :"
+msgstr ""
+
+#: inc/shortcode.class.php:484
+msgid "Bedrooms :"
+msgstr ""
+
+#: inc/shortcode.class.php:488
+msgid "Bathrooms :"
+msgstr ""
+
+#: inc/shortcode.class.php:504
+msgid "There is not any properties"
+msgstr ""
+
+#: inc/shortcode.class.php:590
+msgid "There is not any Agents"
+msgstr ""
+
+#: inc/shortcode.class.php:716
+msgid "There is not any Testimonials"
+msgstr ""
+
+#: inc/shortcode.class.php:851 inc/shortcode.class.php:1170
+#: templates/property-bookmark.php:88
+#: templates/property-listing-masonry.php:88
+#: templates/property-listing-rows.php:111 templates/search-property.php:292
+#: templates/search-property.php:381
+#: widgets/realty-house-featured-properties.php:85
+#: widgets/realty-house-new-properties.php:70
+msgid "bd"
+msgstr ""
+
+#: inc/shortcode.class.php:855 inc/shortcode.class.php:1174
+#: templates/property-bookmark.php:92
+#: templates/property-listing-masonry.php:92
+#: templates/property-listing-rows.php:115 templates/search-property.php:296
+#: templates/search-property.php:385
+#: widgets/realty-house-featured-properties.php:89
+#: widgets/realty-house-new-properties.php:71
+msgid "ba"
+msgstr ""
+
+#: inc/shortcode.class.php:867 inc/shortcode.class.php:926
+msgid "More homes like this"
+msgstr ""
+
+#: inc/shortcode.class.php:1226
+msgid "All"
+msgstr ""
+
+#: inc/shortcode.class.php:1575
+msgid "Listing"
+msgstr ""
+
+#: inc/shortcode.class.php:1687 inc/shortcode.class.php:1811
+msgid "Location"
+msgstr ""
+
+#: inc/shortcode.class.php:1698
+msgid "Features"
+msgstr ""
+
+#: inc/shortcode.class.php:1791 inc/shortcode.class.php:1908
+#: widgets/realty-house-search-property.php:181
+msgid "Search"
+msgstr ""
+
+#: inc/shortcode.class.php:1802
+msgid "Advanced Search"
+msgstr ""
+
+#: inc/shortcode.class.php:1912
+msgid "More Advanced Search"
+msgstr ""
+
+#: inc/shortcode.class.php:2150
+#, php-format
+msgid "I am interested in %s"
+msgstr ""
+
+#: inc/shortcode.class.php:2161 inc/shortcode.class.php:2251
+msgid "Name"
+msgstr ""
+
+#: inc/shortcode.class.php:2164
+msgid "E-mail"
+msgstr ""
+
+#: inc/shortcode.class.php:2170
+msgid "Message"
+msgstr ""
+
+#: inc/shortcode.class.php:2177
+msgid "I want financing information"
+msgstr ""
+
+#: inc/shortcode.class.php:2183
+msgid "Send Now"
+msgstr ""
+
+#: inc/shortcode.class.php:2203
+msgid "Please fill all fields."
+msgstr ""
+
+#: inc/shortcode.class.php:2226
+msgid "Please provide address and email of agents."
+msgstr ""
+
+#: inc/shortcode.class.php:2244
+msgid "Do you have any offers?"
+msgstr ""
+
+#: inc/shortcode.class.php:2246
+msgid "Let Us Know Your Offer"
+msgstr ""
+
+#: inc/shortcode.class.php:2260
+msgid "Price Offer"
+msgstr ""
+
+#: inc/shortcode.class.php:2263
+msgid "Your Comment"
+msgstr ""
+
+#: inc/shortcode.class.php:2266 templates/be-agent.php:61
+#: templates/submit-property.php:665
+msgid "Send"
+msgstr ""
+
+#: inc/templater.class.php:36
+msgid "Property Listing - Grid"
+msgstr ""
+
+#: inc/templater.class.php:37
+msgid "Property Listing - List"
+msgstr ""
+
+#: inc/templater.class.php:38
+msgid "Property Listing - Masonry"
+msgstr ""
+
+#: inc/templater.class.php:39
+msgid "Property Listing - Map View"
+msgstr ""
+
+#: inc/templater.class.php:40 realty-house.php:696
+msgid "Submit Property"
+msgstr ""
+
+#: inc/templater.class.php:42
+msgid "Property Compare"
+msgstr ""
+
+#: inc/templater.class.php:43
+msgid "Search Property"
+msgstr ""
+
+#: inc/templater.class.php:44
+msgid "Property Bookmark"
+msgstr ""
+
+#: inc/templater.class.php:45 realty-house.php:708
+msgid "User Panel"
+msgstr ""
+
+#: realty-house.php:267
+msgid "Manage the testimonials which is given by users."
+msgstr ""
+
+#: realty-house.php:281 templates/property-compare.php:26
+msgid "Properties"
+msgstr ""
+
+#: realty-house.php:282
+msgid "Manage the property of website."
+msgstr ""
+
+#: realty-house.php:304
+msgctxt "Taxonomy plural name"
+msgid "Property Categories"
+msgstr ""
+
+#: realty-house.php:305
+msgctxt "Taxonomy singular name"
+msgid "Property Category"
+msgstr ""
+
+#: realty-house.php:324
+msgid "Service"
+msgstr ""
+
+#: realty-house.php:325
+msgid "Manage the services that your website provide."
+msgstr ""
+
+#: realty-house.php:340
+msgid "Manage the agents of website."
+msgstr ""
+
+#: realty-house.php:367
+msgid "FAQ"
+msgstr ""
+
+#: realty-house.php:368
+msgid "Manage the FAQ in the website."
+msgstr ""
+
+#: realty-house.php:380
+msgid "Price Offers"
+msgstr ""
+
+#: realty-house.php:404
+msgid "You are not allowed to be here"
+msgstr ""
+
+#: realty-house.php:433
+msgid "Agent"
+msgstr ""
+
+#: realty-house.php:702
+msgid "Property Search"
+msgstr ""
+
+#: realty-house.php:759
+msgid "sent an email from "
+msgstr ""
+
+#: realty-house.php:765
+msgid "I want to have extra finance information about this property"
+msgstr ""
+
+#: realty-house.php:772
+msgid "We checked your message and contact you as soon as possible."
+msgstr ""
+
+#: realty-house.php:777
+msgid "Please fill the required fields correctly."
+msgstr ""
+
+#: templates/be-agent.php:13
+msgid "Registration Information"
+msgstr ""
+
+#: templates/be-agent.php:15
+msgid "Registration is Complete :)"
+msgstr ""
+
+#: templates/be-agent.php:16
+msgid ""
+"After confirmation of administration of website, you can submit your "
+"properties."
+msgstr ""
+
+#: templates/be-agent.php:21
+msgid "First Name"
+msgstr ""
+
+#: templates/be-agent.php:23 templates/be-agent.php:28
+#: templates/be-agent.php:33 templates/be-agent.php:38
+#: templates/be-agent.php:43 templates/be-agent.php:57
+#: templates/submit-property.php:102 templates/submit-property.php:199
+#: templates/submit-property.php:209 templates/submit-property.php:257
+#: templates/submit-property.php:280 templates/submit-property.php:318
+msgid "Please fill this field."
+msgstr ""
+
+#: templates/be-agent.php:26
+msgid "Last Name"
+msgstr ""
+
+#: templates/be-agent.php:41
+msgid "Confirm Email"
+msgstr ""
+
+#: templates/property-bookmark.php:17
+msgid "Bookmarked Properties"
+msgstr ""
+
+#: templates/property-bookmark.php:123 templates/search-property.php:635
+#: templates/user-panel.php:65
+msgid "Nothing Found :("
+msgstr ""
+
+#: templates/property-bookmark.php:124 templates/search-property.php:636
+msgid "There is not any properties to be matched with your criteria"
+msgstr ""
+
+#: templates/property-compare.php:24
+msgid "Comparing"
+msgstr ""
+
+#: templates/property-compare.php:32 templates/submit-property.php:146
+#: widgets/realty-house-search-property.php:342
+msgid "Bedrooms"
+msgstr ""
+
+#: templates/property-compare.php:34
+msgid "Building Size"
+msgstr ""
+
+#: templates/property-compare.php:35
+msgid "Lot Size"
+msgstr ""
+
+#: templates/property-compare.php:61
+msgid "Remove Property"
+msgstr ""
+
+#: templates/property-compare.php:131
+msgid "Nothing to Compare :("
+msgstr ""
+
+#: templates/property-compare.php:132
+msgid ""
+"There is not any properties to compare, please choose the properties from "
+"the listings"
+msgstr ""
+
+#: templates/property-listing-masonry.php:18
+#: templates/property-listing-rows.php:18 templates/property-listing.php:19
+msgid "Property Grid View With Map"
+msgstr ""
+
+#: templates/search-property.php:186 templates/search-property.php:203
+msgid "Save Search"
+msgstr ""
+
+#: templates/search-property.php:187
+msgid ""
+"You can save your search result for future use. All of your saved search "
+"will be listed in saved search menu."
+msgstr ""
+
+#: templates/search-property.php:210
+msgid "save"
+msgstr ""
+
+#: templates/submit-property.php:13
+msgid "SQF"
+msgstr ""
+
+#: templates/submit-property.php:18
+msgid "Login Form"
+msgstr ""
+
+#: templates/submit-property.php:25
+msgid "Password"
+msgstr ""
+
+#: templates/submit-property.php:26
+msgid "Log In"
+msgstr ""
+
+#: templates/submit-property.php:49
+msgid "Submission is Complete :)"
+msgstr ""
+
+#: templates/submit-property.php:50
+msgid ""
+"Your property will be available after confirmation of administration of "
+"website."
+msgstr ""
+
+#: templates/submit-property.php:89
+msgid "Add a Property"
+msgstr ""
+
+#: templates/submit-property.php:91
+msgid "Property Setting"
+msgstr ""
+
+#: templates/submit-property.php:106
+msgid "Property Category"
+msgstr ""
+
+#: templates/submit-property.php:110
+msgid ""
+"Select a property type and its status that best describes this property."
+msgstr ""
+
+#: templates/submit-property.php:137
+msgid "You have selected"
+msgstr ""
+
+#: templates/submit-property.php:139
+msgid "Continue and complete the form below."
+msgstr ""
+
+#: templates/submit-property.php:141
+msgid "Please select the above categories."
+msgstr ""
+
+#: templates/submit-property.php:150
+msgid "How Many Bedrooms?"
+msgstr ""
+
+#: templates/submit-property.php:165
+msgid "Please select how many bedrooms your property has."
+msgstr ""
+
+#: templates/submit-property.php:174
+msgid "How Many Bathroom?"
+msgstr ""
+
+#: templates/submit-property.php:189
+msgid "Please select how many bathroom your property has."
+msgstr ""
+
+#: templates/submit-property.php:194
+msgid "Total Building Size"
+msgstr ""
+
+#: templates/submit-property.php:204
+msgid "Total Lot Size"
+msgstr ""
+
+#: templates/submit-property.php:217
+msgid "How Many Garages?"
+msgstr ""
+
+#: templates/submit-property.php:247
+msgid "Separate your keywords with comma"
+msgstr ""
+
+#: templates/submit-property.php:252
+msgid "Property Description"
+msgstr ""
+
+#: templates/submit-property.php:264
+msgid "Price Details"
+msgstr ""
+
+#: templates/submit-property.php:292
+msgid "Price type"
+msgstr ""
+
+#: templates/submit-property.php:325
+msgid "Drag the marker and put it on your property location."
+msgstr ""
+
+#: templates/submit-property.php:338
+msgid "Latitude"
+msgstr ""
+
+#: templates/submit-property.php:369
+msgid "Add Neighborhood"
+msgstr ""
+
+#: templates/submit-property.php:403
+msgid "Add School"
+msgstr ""
+
+#: templates/submit-property.php:450 templates/submit-property.php:585
+#: templates/submit-property.php:605
+msgid "Brows..."
+msgstr ""
+
+#: templates/submit-property.php:455
+msgid "Listings with photos are viewed 5 times more than those without."
+msgstr ""
+
+#: templates/submit-property.php:482
+msgid "Add Fact"
+msgstr ""
+
+#: templates/submit-property.php:575
+msgid "Property FloorPlans"
+msgstr ""
+
+#: templates/submit-property.php:642
+msgid "Please select at-least one agent."
+msgstr ""
+
+#: templates/submit-property.php:650
+msgid "Listing Agreement"
+msgstr ""
+
+#: templates/submit-property.php:660
+msgid ""
+"I acknowledge that I am authorized to post this listing and to the best of "
+"my knowledge all of the information provided is accurate."
+msgstr ""
+
+#: templates/submit-property.php:662
+msgid "Please accept the agreement of website."
+msgstr ""
+
+#: templates/user-panel.php:30
+msgid "Saved Search List"
+msgstr ""
+
+#: templates/user-panel.php:36
+msgid "Delete"
+msgstr ""
+
+#: templates/user-panel.php:66
+msgid "There is not any saved search item here."
+msgstr ""
+
+#: widgets/realty-house-ask-question.php:18
+msgid "Realty House Ask Question"
+msgstr ""
+
+#: widgets/realty-house-ask-question.php:19
+msgid "Show Ask Question Box in the sidebars"
+msgstr ""
+
+#: widgets/realty-house-ask-question.php:48
+msgid "Call Us: "
+msgstr ""
+
+#: widgets/realty-house-ask-question.php:55
+msgid "or"
+msgstr ""
+
+#: widgets/realty-house-ask-question.php:76
+msgid "Ask a Question"
+msgstr ""
+
+#: widgets/realty-house-ask-question.php:83
+#: widgets/realty-house-featured-agent.php:80
+#: widgets/realty-house-featured-properties.php:166
+#: widgets/realty-house-new-properties.php:98
+#: widgets/realty-house-search-property.php:304
+#: widgets/realty-house-testimonials.php:89
+msgid "Title:"
+msgstr ""
+
+#: widgets/realty-house-ask-question.php:90
+#: widgets/realty-house-search-property.php:311
+msgid "Class:"
+msgstr ""
+
+#: widgets/realty-house-ask-question.php:93
+msgid "type-1 / type-2"
+msgstr ""
+
+#: widgets/realty-house-ask-question.php:97
+msgid "Phone Number:"
+msgstr ""
+
+#: widgets/realty-house-ask-question.php:104
+msgid "Form ShortCode:"
+msgstr ""
+
+#: widgets/realty-house-ask-question.php:105
+msgid "Paset the Contact 7 shortcode in this field"
+msgstr ""
+
+#: widgets/realty-house-featured-agent.php:18
+msgid "Realty House Featured Agent"
+msgstr ""
+
+#: widgets/realty-house-featured-agent.php:19
+msgid "Show a featured agent in the sidebars"
+msgstr ""
+
+#: widgets/realty-house-featured-agent.php:75
+msgid "Featured Agent"
+msgstr ""
+
+#: widgets/realty-house-featured-agent.php:87
+msgid "Agent ID:"
+msgstr ""
+
+#: widgets/realty-house-featured-properties.php:18
+msgid "Realty House Featured Properties"
+msgstr ""
+
+#: widgets/realty-house-featured-properties.php:19
+msgid "Show the latest featured properties in the sidebars"
+msgstr ""
+
+#: widgets/realty-house-featured-properties.php:159
+msgid "Featured Listing"
+msgstr ""
+
+#: widgets/realty-house-featured-properties.php:173
+msgid "Type:"
+msgstr ""
+
+#: widgets/realty-house-featured-properties.php:175
+msgid "Multi"
+msgstr ""
+
+#: widgets/realty-house-featured-properties.php:176
+msgid "Single"
+msgstr ""
+
+#: widgets/realty-house-featured-properties.php:181
+msgid "Property Count:"
+msgstr ""
+
+#: widgets/realty-house-featured-properties.php:184
+msgid "Insert how many properties you want to show?"
+msgstr ""
+
+#: widgets/realty-house-featured-properties.php:188
+msgid "Property ID:"
+msgstr ""
+
+#: widgets/realty-house-featured-properties.php:191
+msgid "Insert the property ID"
+msgstr ""
+
+#: widgets/realty-house-new-properties.php:18
+msgid "Realty House New Properties"
+msgstr ""
+
+#: widgets/realty-house-new-properties.php:19
+msgid "Show the new properties in the sidebars"
+msgstr ""
+
+#: widgets/realty-house-new-properties.php:105
+msgid "Post Count:"
+msgstr ""
+
+#: widgets/realty-house-search-property.php:18
+msgid "Realty House Search Property"
+msgstr ""
+
+#: widgets/realty-house-search-property.php:19
+msgid "Show the search form of properties in the sidebars"
+msgstr ""
+
+#: widgets/realty-house-search-property.php:75
+msgid "Ex : New York, NY, United States"
+msgstr ""
+
+#: widgets/realty-house-search-property.php:288
+msgid "Find Your Home"
+msgstr ""
+
+#: widgets/realty-house-search-property.php:349
+msgid "Bathrooms"
+msgstr ""
+
+#: widgets/realty-house-search-property.php:367
+msgid "Max Price :"
+msgstr ""
+
+#: widgets/realty-house-testimonials.php:18
+msgid "Realty House Testimonials"
+msgstr ""
+
+#: widgets/realty-house-testimonials.php:19
+msgid "Show the testimonials in the sidebars"
+msgstr ""
+
+#: widgets/realty-house-testimonials.php:84
+msgid "White Clients Say"
+msgstr ""
+
+#: widgets/realty-house-testimonials.php:96
+msgid "Count:"
+msgstr ""

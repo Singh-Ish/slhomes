@@ -1,0 +1,119 @@
+<wpml-config>
+	<admin-texts>
+		<key name="realty_house_opt">
+			<key name="opt-contact-text"/>
+			<key name="opt-read-more-text"/>
+			<key name="opt-footer-text"/>
+			<key name="realty-house-property-contact-agent-form-content"/>
+			<key name="realty-house-property-status">
+				<key name="0"/>
+				<key name="1"/>
+				<key name="2"/>
+				<key name="3"/>
+				<key name="4"/>
+			</key>
+			<key name="realty-house-property-type">
+				<key name="1"/>
+				<key name="2"/>
+				<key name="3"/>
+				<key name="4"/>
+				<key name="5"/>
+				<key name="6"/>
+				<key name="7"/>
+				<key name="8"/>
+				<key name="9"/>
+				<key name="10"/>
+			</key>
+			<key name="realty-house-agent-rate-items">
+				<key name="0"/>
+				<key name="1"/>
+				<key name="2"/>
+				<key name="3"/>
+				<key name="4"/>
+			</key>
+			<key name="opt-web-site-company-title"/>
+			<key name="opt-web-site-company-subtitle"/>
+			<key name="opt-web-site-city"/>
+			<key name="opt-read-more-text"/>
+			<key name="realty-house-promo">
+				<key name="0">
+					<key name="title"/>
+					<key name="desc"/>
+					<key name="btn_text"/>
+				</key>
+				<key name="1">
+					<key name="title"/>
+					<key name="desc"/>
+					<key name="btn_text"/>
+				</key>
+				<key name="2">
+					<key name="title"/>
+					<key name="desc"/>
+					<key name="btn_text"/>
+				</key>
+				<key name="3">
+					<key name="title"/>
+					<key name="desc"/>
+					<key name="btn_text"/>
+				</key>
+				<key name="4">
+					<key name="title"/>
+					<key name="desc"/>
+					<key name="btn_text"/>
+				</key>
+				<key name="5">
+					<key name="title"/>
+					<key name="desc"/>
+					<key name="btn_text"/>
+				</key>
+			</key>
+			<key name="realty-house-clients">
+				<key name="0">
+					<key name="title"/>
+					<key name="description"/>
+					<key name="url"/>
+				</key>
+				<key name="1">
+					<key name="title"/>
+					<key name="description"/>
+					<key name="url"/>
+				</key>
+				<key name="2">
+					<key name="title"/>
+					<key name="description"/>
+					<key name="url"/>
+				</key>
+				<key name="3">
+					<key name="title"/>
+					<key name="description"/>
+					<key name="url"/>
+				</key>
+				<key name="4">
+					<key name="title"/>
+					<key name="description"/>
+					<key name="url"/>
+				</key>
+				<key name="5">
+					<key name="title"/>
+					<key name="description"/>
+					<key name="url"/>
+				</key>
+				<key name="6">
+					<key name="title"/>
+					<key name="description"/>
+					<key name="url"/>
+				</key>
+				<key name="7">
+					<key name="title"/>
+					<key name="description"/>
+					<key name="url"/>
+				</key>
+				<key name="8">
+					<key name="title"/>
+					<key name="description"/>
+					<key name="url"/>
+				</key>
+			</key>
+		</key>
+	</admin-texts>
+</wpml-config>

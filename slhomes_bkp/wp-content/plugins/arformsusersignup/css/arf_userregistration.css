@@ -1,0 +1,403 @@
+.paginate_page a{
+	display:none;
+}
+.delete_box{
+	float:left;
+}
+	
+#frm_add_form_id{
+	height:150px !important;
+}
+
+.page_title {
+	color:#353942;
+	font-weight:normal;
+	font-family:'open_sansregular', Arial, Helvetica, Verdana, sans-serif;
+	line-height:normal;
+	font-size:30px;
+	padding-bottom:10px;
+	float:left;
+	clear:both;
+}
+.wrap_content { 
+	clear:both;
+	margin-top:0px !important;
+	padding:25px 25px 100px 25px;
+	margin-left:0;
+	margin-right:0; 
+	background-color:#FFFFFF;
+	border:none; 
+	-moz-border-radius:0px; 
+	-webkit-border-radius:0px; 
+	border-radius:0px; 
+}
+#arf_user_registration_forms #example_wrapper a {
+	text-decoration:none;
+	color: #113E71;
+	outline:none;
+}
+
+.form-table td.tdclass_1 {
+	padding-left: 20px;
+}
+
+.arf_form_table {
+	border-collapse: collapse;
+    clear: both;
+    margin-bottom: 0;
+    margin-top: 0;
+    width: 100%;
+}
+
+.arf_form_table .arf_table_tr {
+	float:left;
+	width:100%;
+}
+
+.arf_form_table .arf_table_tr .arftdlabel {
+    line-height: 20px;
+    padding: 8px 10px;
+	float: left;
+   width:185px; 
+	text-align:right;
+}
+
+.arf_form_table .arf_table_tr .inputdiv {
+    float: left;
+    line-height: 20px;
+    padding: 8px 10px;
+    width: 63%;
+}
+
+.setting_tabrow .tab,
+.tab ul.arfmainformnavigation {
+	width:auto;
+}
+
+ul.arfmainformnavigation li.tab-unselected {
+	padding:0 10px;
+}
+
+ul.arfmainformnavigation a {
+	outline:none;
+}
+
+.tab .btn_sld {
+	padding:0 10px;
+}
+
+.setting_tabrow .tab .general_settings_img {
+	background:url(../images/general_settings_hover.png) no-repeat;
+	display: inline-block;
+	height:15px;
+	width:15px;
+	vertical-align:bottom;
+}
+
+.setting_tabrow .tab .btn_sld .general_settings_img {
+	background:url(../images/general_settings.png) no-repeat;
+}
+
+.custom_meta_row {
+	clear:both;
+	margin-bottom:20px;
+}
+
+.wrap .arf_custom_meta_name {
+	float:left;
+	margin-right:20px;
+}
+
+.arfdropdown-menu .custom_meta {
+	font-weight:bold;
+}
+.custom_meta_div .custom_meta_txtfield {
+	float:left; 
+	margin-right:20px; 
+	width: 275px;
+}
+
+#mainNav li {
+    background-color: #ff6600;
+    background-position: right top;
+    background-repeat: no-repeat;
+    float: left;
+    height: 44px;
+    list-style: none outside none;
+}
+#mainNav li.current {
+    background-color: #e0e3ea;
+    background-image: url(../images/navCurrentBtn2.png);
+	background-position:right;
+}
+#mainNav li.lastDone {
+    background-color: #1BBAE1;
+    background-image: url(../images/navLastDoneBtn.png);
+	background-position:right;
+}
+#mainNav li.done {
+    background-color: #1BBAE1;
+    background-image: url(../images/navDoneBtn.png);
+	background-position:right;
+}
+
+#mainNav li.mainNavNoBg {
+    background-image: none;
+}
+#mainNav li a {
+    display: block;
+    height: 44px;
+}
+#mainNav.fiveStep li {
+    width: 210px;
+}
+#mainNav.fiveStep li a {
+    width: 182px;
+}
+#mainNav.fourStep li {
+    width: 227px;
+}
+#mainNav.fourStep li.mainNavNoBg {
+    width: 229px;
+}
+#mainNav.fourStep li a {
+    width: 227px;
+}
+#mainNav.threeStep li {
+    width: 303px;
+}
+#mainNav.threeStep li.mainNavNoBg {
+    width: 304px;
+}
+#mainNav.threeStep li a {
+    width: 303px;
+}
+#mainNav.twoStep li {
+    width: 455px;
+}
+#mainNav.twoStep li a {
+    width: 455px;
+}
+
+#mainNav li:hover {
+	background:#e0e3ea url(../images/navCurrentBtn2.png) no-repeat;
+	background-position:right;
+}
+
+#mainNav li.mainNavNoBg:hover {
+	background:none;
+	background-color:#e0e3ea;
+}
+
+#mainNav li.secondmenu:hover div.arf_fixer_img,
+#mainNav .secondmenu.current div.arf_fixer_img {
+	background-image:url(../images/navLastDoneBtn2.png);
+	background-position:right;
+	height:44px;
+	width:26px;
+	margin-left: -26px;
+	position:absolute;
+}
+
+#mainNav li.thriddmenu:hover div.arf_fixer_img {
+	background-image:url(../images/navLastDoneBtn2.png);
+	background-position:right;
+	height:44px;
+	width:26px;
+	margin-left: -26px;
+	position:absolute;
+}
+
+#mainNav li.lastDone:hover {
+	background:#e0e3ea;
+	background-position: right center;
+}
+
+#mainNav .arf_userreg_icon {
+	background:url(../images/user-icon.png) no-repeat;
+	display: inline-block;
+	height:20px;
+	width:20px;
+	vertical-align:middle;
+	margin-left: 5px;
+}
+
+#mainNav li.current .arf_userreg_icon,
+#mainNav li.arftab:hover .arf_userreg_icon { 
+	background:url(../images/user-icon-select.png) no-repeat;
+}
+
+#mainNav .arf_login_icon {
+	background:url(../images/login-icon.png) no-repeat;
+	display: inline-block;
+	height:20px;
+	width:20px;
+	vertical-align:middle;
+	margin-left: 5px;
+}
+
+#mainNav li.current .arf_login_icon,
+#mainNav li.arftab:hover .arf_login_icon { 
+	background:url(../images/login-icon-select.png) no-repeat;
+}
+
+#mainNav .arf_changepass_icon {
+	background:url(../images/password-icon.png) no-repeat;
+	display: inline-block;
+	height:20px;
+	width:20px;
+	vertical-align:middle;
+	margin-left: 5px;
+}
+
+#mainNav li.current .arf_changepass_icon,
+#mainNav li.arftab:hover .arf_changepass_icon { 
+	background:url(../images/password-icon-select.png) no-repeat;
+}
+
+#mainNav .arf_editprofile_icon {
+	background:url(../images/edit-icon.png) no-repeat;
+	display: inline-block;
+	height:20px;
+	width:20px;
+	vertical-align:middle;
+	margin-left: 5px;
+}
+
+#mainNav li.current .arf_editprofile_icon,
+#mainNav li.arftab:hover .arf_editprofile_icon { 
+	background:url(../images/edit-icon-select.png) no-repeat;
+}
+
+
+#mainNav li.arftab a { 
+	outline:none;
+	padding:0px 10px 0px 3px;
+    font-size:17px;
+	font-weight:bold;
+    line-height:44px;
+    color:#ffffff;
+    text-decoration:none;
+}
+
+#mainNav li.arftab:hover a,
+#mainNav li.current a {
+	color:#353942; 
+}
+
+#mainNav li.firstmenu,
+#mainNav li.firstmenu a { 
+	width:210px;
+}
+#mainNav li.thriddmenu,
+#mainNav li.thriddmenu a { 
+	width:355px;
+}	
+
+#arftabmain {
+	margin:20px 35px 10px;
+    padding:0px;
+    clear:both;
+    font-family:'open_sansbold', Arial, Helvetica, sans-serif;
+	border:1px solid #c6c9d2;
+	float:left;
+	width:auto;
+	background:#e0e3ea;
+	height:44px;
+	-webkit-border-radius:5px; 
+	-moz-border-radius:5px; 
+    border-radius:5px;
+}
+#mainNav li.firstmenu {
+	-webkit-border-radius:3px 0 0 3px; 
+	-moz-border-radius:3px 0 0 3px; 
+	border-radius: 3px 0 0 3px;
+}
+
+#mainNav li.mainNavNoBg {
+	-webkit-border-radius: 0 3px 3px 0; 
+	-moz-border-radius: 0 3px 3px 0; 
+	border-radius: 0 3px 3px 0;
+}
+
+#mainNav li.lastDone {
+	background-image: url(../images/navLastDoneBtn2.png);
+	background-position:right;
+	background-repeat:no-repeat;
+}
+#mainNav li.lastDone:hover {
+	background-image:none;
+	background-position:right;
+	background-repeat:no-repeat;
+	background-image:url(../images/navDoneBtn-white.png) !important;
+}
+
+#mainNav li.mainNavNoBg.done:hover div.arf_fixer_img {
+	background-image:url(../images/navLastDoneBtn2.png);
+	background-position:right;
+	height:44px;
+	width:26px;
+	margin-left: -26px;
+	position:absolute;
+}
+
+#mainNav li.nextdone:hover .arf_fixer_img {
+	background-image:url(../images/navDoneBtn-white.png) !important;
+	background-position:right;
+	height:44px;
+	width:26px;
+	margin-left: -26px;
+	position:absolute;
+} 
+
+#mainNav .arf_fixer_img2 {
+	display:none;
+	background-image:url(../images/navDoneBtn-white.png);
+	background-position:right;
+	height:44px;
+	width:26px;
+	margin-left: -26px;
+	position:absolute;
+	z-index:1;
+}
+
+#mainNav li a:active {
+	background:none;
+	filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+}
+.bulk_add_remove
+{
+	margin-left:15px;
+}
+.bulk_add,
+.bulk_remove
+{
+	margin-top:-5px;
+}
+
+.arf_form_table .arf_table_td.arftdsublabel
+{
+	width:50%;
+	padding-left:30px;
+}
+.arfdisablepassword 
+{
+	float:left;
+	margin-left:20px;
+	margin-top:3px;
+}
+
+.arf_table_td.arftdlabel div.lbltitle { margin-left:30px; }
+.arf_table_td.arftdlabel div.lblmainsubtitle { margin-left:50px; margin-top:20px; }
+.bulk_add { border:none; box-shadow:none; }
+.add_blank_meta { background:#1BBAE1; border:1px solid #E9E9E9; border-radius:4px; font-size:14px; color:#FFFFFF; padding:3px 10px; cursor:pointer;  }
+
+.arf_bp_row {
+	clear:both;
+	margin-bottom:20px;
+}
+
+.wrap .arf_bp_name {
+	float:left;
+	margin-right:20px;
+}

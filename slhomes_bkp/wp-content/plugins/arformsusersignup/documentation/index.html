@@ -1,0 +1,265 @@
+<!doctype html>  
+<!--[if IE 6 ]><html lang="en-us" class="ie6"> <![endif]-->
+<!--[if IE 7 ]><html lang="en-us" class="ie7"> <![endif]-->
+<!--[if IE 8 ]><html lang="en-us" class="ie8"> <![endif]-->
+<!--[if (gt IE 7)|!(IE)]><!-->
+<html lang="en-us"><!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	
+	<title>User Signup For ARForms</title>
+	
+	<meta name="description" content="ARForms has new extension which will use for User Registration, User Login, Forgot Password, Change Password, Edit Profile And Logout. User Signup For ARForms is just another wordpress plugin which you can install and manage just like other wordpress plugins.
+
+Signup For ARForms plugin integrates your form entries and user signup and login etc into a single process. You can register and login users immediately after form submission from ARForms." />
+	<meta name="keywords" content="User Signup For ARForms, User Registration For ARForms, User Login With ARForms, Forgot Password With ARForms, Change Password With ARForms, Edit Profile With ARForms, Logout With ARForms, Wp User Registration For ARForms, wordpress user registration addon, wordpress user signup addon, wordpress user registration extension, User Registration With ARForms, User Registration / User Signup Extension for ARForms, ARForms Extension, ARForms Add-on" />
+	<meta name="author" content="Repute Infosystems">
+	<meta name="copyright" content="Repute Infosystems">
+	<meta name="date" content="2014-07-19">
+	
+	<link rel="stylesheet" href="assets/css/documenter_style.css" media="all">
+	
+	
+	
+	<script src="assets/js/jquery.js"></script>
+	
+	<script src="assets/js/jquery.scrollTo.js"></script>
+	<script src="assets/js/jquery.easing.js"></script>
+	
+	<script>document.createElement('section');var duration='500',easing='swing';</script>
+	<script src="assets/js/script.js"></script>
+	
+	<style>
+		html{background-color:#FFFFFF;color:#383838;}
+		::-moz-selection{background:#444444;color:#DDDDDD;}
+		::selection{background:#444444;color:#DDDDDD;}
+		#documenter_sidebar #documenter_logo{background-image:url();}
+		a{color:#0000FF;}
+		.btn {
+			border-radius:3px;
+		}
+		.btn-primary {
+			  background-image: -moz-linear-gradient(top, #0088CC, #0044CC);
+			  background-image: -ms-linear-gradient(top, #0088CC, #0044CC);
+			  background-image: -webkit-gradient(linear, 0 0, 0 0088CC%, from(#DDDDDD), to(#0044CC));
+			  background-image: -webkit-linear-gradient(top, #0088CC, #0044CC);
+			  background-image: -o-linear-gradient(top, #0088CC, #0044CC);
+			  background-image: linear-gradient(top, #0088CC, #0044CC);
+			  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#0088CC', endColorstr='#0044CC', GradientType=0);
+			  border-color: #0044CC #0044CC #bfbfbf;
+			  color:#FFFFFF;
+		}
+		.btn-primary:hover,
+		.btn-primary:active,
+		.btn-primary.active,
+		.btn-primary.disabled,
+		.btn-primary[disabled] {
+		  border-color: #0088CC #0088CC #bfbfbf;
+		  background-color: #0044CC;
+		}
+		hr{border-top:1px solid #EBEBEB;border-bottom:1px solid #FFFFFF;}
+		#documenter_sidebar, #documenter_sidebar ul a{background-color:#DDDDDD;color:#222222;}
+		#documenter_sidebar ul a{-webkit-text-shadow:1px 1px 0px #EEEEEE;-moz-text-shadow:1px 1px 0px #EEEEEE;text-shadow:1px 1px 0px #EEEEEE;}
+		#documenter_sidebar ul{border-top:1px solid #AAAAAA;}
+		#documenter_sidebar ul a{border-top:1px solid #EEEEEE;border-bottom:1px solid #AAAAAA;color:#444444;}
+		#documenter_sidebar ul a:hover{background:#444444;color:#DDDDDD;border-top:1px solid #444444;}
+		#documenter_sidebar ul a.current{background:#444444;color:#DDDDDD;border-top:1px solid #444444;}
+		#documenter_copyright{display:block !important;visibility:visible !important;}
+	</style>
+	
+</head>
+<body class="documenter-project-paypal-for-arforms">
+	<div id="documenter_sidebar">
+		<a href="#documenter_cover" id="documenter_logo"></a>
+		<ul id="documenter_nav">
+			<li><a class="current" href="#documenter_cover">Start</a></li>
+				
+			<li><a href="#key_features" title="Key Features">Key Features</a></li>
+			<li><a href="#installation_and_activation" title="Installation And Activation">Installation And Activation</a></li>
+			<li><a href="#user_registration_configuration" title="User Registration Configuration">User Registration Configuration</a></li>
+			<li><a href="#user_login_configuration" title="User Login Configuration">User Login Configuration</a></li>
+            <li><a href="#user_logout_configuration" title="User Logout Configuration">User Logout Configuration</a></li>
+            <li><a href="#change_password_configuration" title="Change Password Configuration">Change Password Configuration</a></li>
+            <li><a href="#forgot_password_configuration" title="Forgot Password Configuration">Forgot Password Configuration</a></li>
+            <li><a href="#reset_password_configuration" title="Reset Password Configuration">Reset Password Configuration</a></li>
+            <li><a href="#edit_profile_configuration" title="Edit Profile Configuration">Edit Profile Configuration</a></li>
+            <li><a href="#changelog" title="Changelog">Changelog</a></li>
+
+		</ul>
+		<div id="documenter_copyright">Copyright Repute Infosystems 2014<br>
+		made with the <a href="http://rxa.li/documenter">Documenter v2.0</a> 
+		</div>
+	</div>
+	<div id="documenter_content">
+	<section id="documenter_cover">
+	<h1>User Signup For ARForms ( Version: 1.3 )</h1>
+	<div id="documenter_buttons">
+		
+	</div>
+	<hr>
+	<ul>
+	<li>created: 19/07/2014</li>
+	<li>latest update: 18/12/2014</li>
+	<li>by: Repute Infosystems</li>
+	<li>email: <a href="mailto:info@reputeinfosystems.com">info@reputeinfosystems.com</a></li>
+	</ul>
+	<p>Creating a User within WordPress is now possible with ARForms.The User Signup Add-On for ARForms makes registering with wordpress so easy as never before. <br><br>
+
+Use ARForms to allow users to register for your site and also edit their profile / Change their password / Retrieve their password from the front-end. User Signup For ARForms Add-on allows you to easily reference user meta and auto-populate forms with a logged-in user's information. This Add-on comes with complete user management solution.
+</p>
+	</section>
+	
+	<section id="key_features">
+	<div class="page-header"><h3>Key Features</h3><hr class="notop"></div>
+<ul>
+	<li>
+		<strong>All in One User Management Solution</strong></li>
+	<li>
+		<strong>Configuration for all user modules</strong></li>
+    <li>
+		<strong>Seamless integration with wordpress user roles</strong></li>
+    <li>
+		<strong>Custom User Roles Support</strong></li>
+	<li>
+		<strong>Easy installation</strong></li>
+    <li>
+		<strong>Register users only after receiving successfull payment from ARForms Payment AddOns</strong></li>
+	<li>
+		<strong>Fast &amp; Lightweight</strong></li>
+	<li>
+		<strong>Ability to Create / Register / Signup User</strong></li>
+	<li>
+		<strong>Ability for User Login / Logout</strong></li>
+	<li>
+		<strong>Ability to Change Password / Retrieve Forgot Password as well as Reset Forgotton Password</strong></li>
+	<li>
+		<strong>Ability to update User Profile</strong></li>
+    <li>
+		<strong>Buddypress Profile Fields support</strong></li>
+	<li>
+		<strong>Multi lingual</strong></li>
+    <li>
+		<strong>Supports Multi-Site environment</strong></li>
+</ul>
+</section>
+
+<section id="installation_and_activation">
+	<div class="page-header"><h3>Installation And Activation</h3><hr class="notop"></div>
+<p>
+	You can install plugin either of these two methods.</p>
+<p style="margin-left:36.0pt;">
+	1) New install via FTP</p>
+<p style="margin-left:36.0pt;">
+	a. Download the plugin from CodeCanyon, and extract it. You should find a directory named <strong>arformsusersignup</strong>.<br>
+	b. In your WordPress installation, upload <strong>arformsusersignup</strong> to directory wp-content/plugins/<br>
+	c. Activate the <strong>&quot;User Signup For ARForms&quot;</strong> plugin through the <strong>Plugins</strong> menu from WordPress admin panel.</p>
+<p style="margin-left:36.0pt;">
+	2) New install via the WordPress Uploader</p>
+<p style="margin-left:36.0pt;">
+	a. Download the plugin from CodeCanyon<br>
+	b. Log in to your WordPress admin panel<br>
+	c. go to Plugins -&gt; Add New -&gt; Upload<br>
+	d. Click on choose file and browse the download package from CodeCanyon. When the plugin uploads successfully, click on Activate Plugin link.</p>
+<p style="margin-left:36.0pt;">
+	After activating the plugin, you will be able to see &quot;<strong>User Signup Configuration</strong>&quot; link under &ldquo;<strong>ARForms</strong>&rdquo; menu in admin menu list.</p>
+    <p style="margin-left:36.0pt;"><img src="assets/css/img/plugin_installation.png" title="ARFoms User Signup - Plugin Installation" alt="ARFoms User Signup - Plugin Installation" /></p>
+<p style="margin-left:36.0pt;">&nbsp;
+	</p>
+<p style="margin-left:36.0pt;">&nbsp;
+	</p>
+</section>
+
+<section id="user_registration_configuration">
+	<div class="page-header"><h3>User Registration Configuration</h3><hr class="notop"></div>
+	<p>User Signup For ARForms integrates your form entries and user registration seamlessly with your wordpress site. You need to just map your existing form with User signup configuration. and That's it, its ready to use. As you can see in below screenshot, You can map default wordpress registration fields as well as you can set new user meta(s) for additional fields. You can map existing meta as well as you can add new user metas.</p>
+    <p>
+    You can also send notification to users after successful signup with your site. You can also allow your users to login automatically, immediately after successful signup.   </p>
+    <p><img src="assets/css/img/user_signup_configuration.png" title="ARFoms User Signup - Registration Configuration" alt="ARFoms User Signup - Registration Configuration" /></p>
+</section>
+
+
+<section id="user_login_configuration">
+	<div class="page-header"><h3>User Login Configuration</h3><hr class="notop"></div>
+	<p>ARForms User Signup Add-on allows you to login user within your site only. For that you can map existing ARforms' form with this Add-on. User will be logged-in to your site after submitting form with correct credentials. You can also manage redirection URL after successful logged-in to your site. You can set your custom message for invalid login attempt by website user.</p>
+    <p>You can also map "Remember Me" option to allow your website users to remember user with your site.</p>
+    <p><img src="assets/css/img/login_configuration.png" title="ARFoms User Signup - Login Configuration" alt="ARFoms User Signup - Login Configuration" /></p>
+</section>
+
+
+<section id="user_logout_configuration">
+	<div class="page-header"><h3>User Logout Configuration</h3><hr class="notop"></div>
+	<p>You can put a link or Button for user logout. just place a shortcode from this add-on for logout. You do not need to manage anything else.</p>
+    <p><strong>(Add below shortcode into post / page / widget)</strong> <br /><br />
+		&nbsp;&nbsp;&nbsp;&nbsp;<strong>1) [ARForms_logout type="link"] &nbsp;-&nbsp; Logout link</strong>  <br />
+        &nbsp;&nbsp;&nbsp;&nbsp;<strong></strong><strong>2) [ARForms_logout type="button"] &nbsp;-&nbsp; Logout button</strong> <br />
+	</p>
+    <p>If you want to change css of logout button / link you can add properties to <strong>"arf_logout_button"</strong> class. Or you can add your CSS properties into textarea which is given in Logout configuration page. </p>
+    <p><img src="assets/css/img/logout_configuration.png" title="ARFoms User Signup - Logout Configuration" alt="ARFoms User Signup - Logout Configuration" /></p>
+</section>
+
+
+<section id="change_password_configuration">
+	<div class="page-header"><h3>Change Password Configuration</h3><hr class="notop"></div>
+	<p>ARForms User Signup Add-On allows your site users to change their password from front-end. This add-on has facility to validate user's old password before change new password.</p>
+    <p>ARForms User Signup Add-On also allows to send notifications to site administrator while user change their password from front-end.</p>
+	<p><img src="assets/css/img/change_password_configuration.png" title="ARFoms User Signup - Change Password Configuration" alt="ARFoms User Signup - Change Password Configuration" /></p>
+</section>
+
+
+<section id="forgot_password_configuration">
+	<div class="page-header"><h3>Forgot Password Configuration</h3><hr class="notop"></div>
+	<p>With this add-on your site users also can retrieve their forgotten password by entering their email or username from front-end. You can set your custom message in case of invalid username or password found while retrieve their password.</p>
+    <p><img src="assets/css/img/forgot_password_configuration.png" title="ARFoms User Signup - Forgot Password Configuration" alt="ARFoms User Signup - Forgot Password Configuration" /></p>
+</section>
+
+<section id="reset_password_configuration">
+	<div class="page-header"><h3>Reset Forgotton Password Configuration</h3><hr class="notop"></div>
+	<p>With this add-on your site users also can reset forgotton password with ARForms' form. You need to assign a Reset Password page where you have already set Reset Password form.</p>
+    <p><img src="assets/css/img/reset_password_configuration.png" title="ARFoms User Signup - Reset Password Configuration" alt="ARFoms User Signup - Reset Password Configuration" /></p>
+</section>
+
+<section id="edit_profile_configuration">
+	<div class="page-header"><h3>Edit Profile Configuration</h3><hr class="notop"></div>
+	<p>ARForms User Signup Add-On allows your site users to edit their profile from front-end. This add-on will auto populate all the user's data which he has  
+entered while signup. User can modify his profile data and update their profile immediately after submitting the form.</p>
+	<p>In edit profile page, all fields will be pre-populated based on a logged-in user's information</p>
+    <p><img src="assets/css/img/edit_profile_configuration.png" title="ARFoms User Signup - Edit Profile Configuration" alt="ARFoms User Signup - Edit Profile Configuration" /></p>    
+</section>
+
+<section id="changelog">
+	<div class="page-header"><h3>Changelog</h3><hr class="notop"></div>
+     <p style="margin-left:36.0pt;"><strong>Version 1.3 (18 December, 2014)</strong></p>
+	<p>
+		<ul style="margin-left:40.0pt;">
+           	<li>Added Reset Password Functionality.</li>
+            <li>Added support to display username.</li>
+            <li>Other small bug fixes.</li>
+        </ul>
+    </p>
+     <p style="margin-left:36.0pt;"><strong>Version 1.2 (20 October, 2014)</strong></p>
+	<p>
+		<ul style="margin-left:40.0pt;">
+           	<li>Added BuddyPress profile meta support.</li>
+            <li>Other small bug fixes.</li>
+        </ul>
+    </p>
+    <p style="margin-left:36.0pt;"><strong>Version 1.1.1 (21 August, 2014)</strong></p>
+	<p>
+		<ul style="margin-left:40.0pt;">
+           	<li>Added more security with ARForms Payment Addons.</li>
+            <li>Minor CSS changes and other small bug fixes.</li>
+        </ul>
+    </p>
+    <p style="margin-left:36.0pt;"><strong>Version 1.1 (05 August, 2014)</strong></p>
+	<p>
+		<ul style="margin-left:40.0pt;">
+           	<li>Added User Custom Roles Support.</li>
+            <li>Minor CSS changes and other small bug fixes.</li>
+        </ul>
+    </p>
+
+</section>
+
+	</div>
+</body>
+</html>

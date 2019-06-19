@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<id><![CDATA[190]]></id>
+		<title><![CDATA[Metro View Apartment]]></title>
+		<content><![CDATA[]]></content>
+		<propertycategories><![CDATA[]]></propertycategories>
+		<property_property_type><![CDATA[1]]></property_property_type>
+		<property_bedroom><![CDATA[3]]></property_bedroom>
+		<property_bathroom><![CDATA[]]></property_bathroom>
+		<property_building_size><![CDATA[1200]]></property_building_size>
+		<property_lot_size><![CDATA[]]></property_lot_size>
+		<property_parking><![CDATA[]]></property_parking>
+		<property_construction_status><![CDATA[]]></property_construction_status>
+		<property_price><![CDATA[1.25 Cr]]></property_price>
+		<property_price_hidden><![CDATA[]]></property_price_hidden>
+		<property_price_type><![CDATA[1]]></property_price_type>
+		<property_address><![CDATA[2nd/3rd Floor, Sector 13 Dwarka, Delhi, India|2nd/3rd Floor, Sector 13 Dwarka, Delhi, India]]></property_address>
+	</node>
+	<node>
+		<id><![CDATA[191]]></id>
+		<title><![CDATA[Nayantara Apartments]]></title>
+		<content><![CDATA[]]></content>
+		<propertycategories><![CDATA[]]></propertycategories>
+		<property_property_type><![CDATA[1]]></property_property_type>
+		<property_bedroom><![CDATA[3]]></property_bedroom>
+		<property_bathroom><![CDATA[]]></property_bathroom>
+		<property_building_size><![CDATA[1470]]></property_building_size>
+		<property_lot_size><![CDATA[]]></property_lot_size>
+		<property_parking><![CDATA[]]></property_parking>
+		<property_construction_status><![CDATA[]]></property_construction_status>
+		<property_price><![CDATA[1.65 Cr]]></property_price>
+		<property_price_hidden><![CDATA[]]></property_price_hidden>
+		<property_price_type><![CDATA[1]]></property_price_type>
+		<property_address><![CDATA[4th /10th Floor, Sector 7 Dwarka, New Delhi, Delhi, India|4th /10th Floor, Sector 7 Dwarka, New Delhi, Delhi, India]]></property_address>
+	</node>
+</data>

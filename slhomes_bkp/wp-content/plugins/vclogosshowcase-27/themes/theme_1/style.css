@@ -1,0 +1,72 @@
+.theme_1 .imc_wrapp ul{
+margin:0px;
+padding:0px;
+list-style-type:none;
+}
+.theme_1 .imc_wrapp ul li{
+	/*
+-webkit-animation-delay: 0s;
+-webkit-animation-duration: 1s;
+-webkit-animation-fill-mode: both;
+-webkit-animation-name: fadeIn;
+	*/
+box-sizing: border-box;
+color: rgb(136, 136, 136);
+font-family: 'Open Sans', sans-serif;
+font-size: 13px;
+font-weight: 300;
+line-height: 21px;
+min-height: 1px;
+padding-left: 5px;
+padding-right: 5px;
+position: relative;
+width: 292px;
+vertical-align:top;
+min-width:100px;
+display:inline-block;
+float:none;
+margin-bottom:5px;
+}
+.theme_1 .imc-logo-wrapper{
+position:relative;
+}
+.theme_1 .imc-logo-wrapper:hover{
+}
+.theme_1 .imc-logo-wrapper .imc-logo{
+background-size: contain !important; 
+background-position:center !important;
+background-repeat:no-repeat !important;
+overflow:hidden;
+width:96%; 
+height:96%; 
+margin: 0 auto;
+position:absolute;
+top:2%;
+left:2%;
+transition-delay: 0s;
+transition-duration: 0.4s;
+transition-property: all;
+transition-timing-function: ease-in-out;
+transition: all 0.4s ease-in-out;
+-moz-transition: all 0.4s ease-in-out;
+-webkit-transition: all 0.4s ease-in-out;
+-o-transition: all 0.4s ease-in-out;
+}
+.theme_1 .imc-logo-wrapper:hover .imc-logo{
+}
+.theme_1 .imc-logo-wrapper:hover .imc-client-name{
+color:#333;
+}
+.theme_1 .imc-client-name{
+font-family: "Montserrat";
+width: auto;
+margin: 0;
+margin:0 1px;
+z-index:9995;
+color: rgb(136, 136, 136);
+font-size: 1.6em;
+font-weight:300;
+position:absolute;
+bottom:0px;
+left:0px;
+}

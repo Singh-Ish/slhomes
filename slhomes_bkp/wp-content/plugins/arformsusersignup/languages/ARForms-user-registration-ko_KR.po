@@ -1,0 +1,769 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: User Signup For ARForms v1.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-12-17 15:16:06+0000\n"
+"Last-Translator: admin <testrepute123@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Korean\n"
+"X-Poedit-Country: KOREA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: arformsusersignup.php:265
+#@ ARForms-user-registration
+msgid "User Signup For ARForms plugin requires ARForms Plugin installed and active."
+msgstr "ARForms 플러그인 회원 가입 서비스 사용자가 플러그인이 설치 ARForms 및 활성화가 필요합니다."
+
+#: arformsusersignup.php:323
+#@ ARForms-user-registration
+msgid "Configure Usersignup"
+msgstr "사용자가 가입 구성"
+
+#: arformsusersignup.php:3814
+#: core/edit.php:15
+#: core/edit_tab.php:32
+#@ ARForms-user-registration
+msgid "User Signup"
+msgstr "사용자 가입"
+
+#: arformsusersignup.php:803
+#: arformsusersignup.php:4396
+#@ ARForms-user-registration
+msgid "Someone requested that the password be reset for the following account:"
+msgstr "누군가가 암호가 다음 계정에 대한 재설정 할 것을 요청 :"
+
+#: arformsusersignup.php:805
+#: arformsusersignup.php:4398
+#, php-format
+#@ ARForms-user-registration
+msgid "Username: %s"
+msgstr "사용자 이름 : %s"
+
+#: arformsusersignup.php:806
+#: arformsusersignup.php:4399
+#@ ARForms-user-registration
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr "이 실수하는 경우에, 다만이 이메일을 무시하고 아무 일도 일어나지 않을 것이다."
+
+#: arformsusersignup.php:807
+#: arformsusersignup.php:4400
+#@ ARForms-user-registration
+msgid "To reset your password, visit the following address:"
+msgstr "비밀번호를 다시 설정하려면 다음 주소를 방문하십시오"
+
+#: arformsusersignup.php:820
+#: arformsusersignup.php:4412
+#, php-format
+#@ ARForms-user-registration
+msgid "[%s] Password Reset"
+msgstr "[%s] 암호 재설정"
+
+#: arformsusersignup.php:1184
+#: arformsusersignup.php:1283
+#@ ARForms-user-registration
+msgid "Record is deleted successfully."
+msgstr "녹음이 성공적으로 삭제됩니다."
+
+#: arformsusersignup.php:1272
+#@ ARForms-user-registration
+msgid "Please select one or more records."
+msgstr "하나 이상의 레코드를 선택하십시오."
+
+#: arformsusersignup.php:1299
+#: arformsusersignup.php:1619
+#: core/list_forms.php:3
+#: core/list_forms.php:349
+#@ ARForms-user-registration
+msgid "Delete"
+msgstr "삭제"
+
+#: arformsusersignup.php:1557
+#: core/list_forms.php:287
+#@ ARForms-user-registration
+msgid "Configure New Set"
+msgstr "새로운 세트에게 구성"
+
+#: arformsusersignup.php:1564
+#: arformsusersignup.php:1643
+#: core/list_forms.php:294
+#: core/list_forms.php:373
+#@ ARForms-user-registration
+msgid "Bulk Actions"
+msgstr "대량 작업"
+
+#: arformsusersignup.php:1574
+#: arformsusersignup.php:1653
+#: core/list_forms.php:304
+#: core/list_forms.php:383
+#@ ARForms-user-registration
+msgid "Apply"
+msgstr "적용"
+
+#: arformsusersignup.php:1583
+#: core/list_forms.php:313
+#@ ARForms-user-registration
+msgid "Sr. No."
+msgstr "미스터 번호"
+
+#: arformsusersignup.php:1584
+#: core/list_forms.php:314
+#@ ARForms-user-registration
+msgid "Name"
+msgstr "이름"
+
+#: arformsusersignup.php:1585
+#: core/list_forms.php:315
+#@ ARForms-user-registration
+msgid "Mapped With"
+msgstr "로 매핑"
+
+#: arformsusersignup.php:1586
+#: core/list_forms.php:316
+#@ ARForms-user-registration
+msgid "Update Date"
+msgstr "업데이트 날짜"
+
+#: arformsusersignup.php:1587
+#: core/list_forms.php:317
+#@ ARForms-user-registration
+msgid "Action"
+msgstr "활동"
+
+#: arformsusersignup.php:1617
+#: core/list_forms.php:347
+#@ ARForms-user-registration
+msgid "Edit Configuration"
+msgstr "편집 구성"
+
+#: arformsusersignup.php:1627
+#: core/list_forms.php:357
+#@ ARForms-user-registration
+msgid "Show / Hide columns"
+msgstr "표시 / 숨기기 열"
+
+#: arformsusersignup.php:1628
+#: core/list_forms.php:358
+#@ ARForms-user-registration
+msgid "Search"
+msgstr "수색"
+
+#: arformsusersignup.php:1629
+#: core/list_forms.php:359
+#@ ARForms-user-registration
+msgid "entries"
+msgstr "항목"
+
+#: arformsusersignup.php:1630
+#: core/list_forms.php:360
+#@ ARForms-user-registration
+msgid "Show"
+msgstr "표시"
+
+#: arformsusersignup.php:1631
+#: core/list_forms.php:361
+#@ ARForms-user-registration
+msgid "Showing"
+msgstr "전시"
+
+#: arformsusersignup.php:1632
+#: core/list_forms.php:362
+#@ ARForms-user-registration
+msgid "to"
+msgstr "에"
+
+#: arformsusersignup.php:1633
+#: core/list_forms.php:363
+#@ ARForms-user-registration
+msgid "of"
+msgstr "으로"
+
+#: arformsusersignup.php:1634
+#: core/list_forms.php:364
+#@ ARForms-user-registration
+msgid "No matching records found"
+msgstr "일치하는 기록을 찾을 수 없습니다"
+
+#: arformsusersignup.php:1635
+#: core/list_forms.php:365
+#@ ARForms-user-registration
+msgid "No data available in table"
+msgstr "테이블의 데이터 없음"
+
+#: arformsusersignup.php:1636
+#: core/list_forms.php:366
+#@ ARForms-user-registration
+msgid "filtered from"
+msgstr "에서 필터링"
+
+#: arformsusersignup.php:1637
+#: core/list_forms.php:367
+#@ ARForms-user-registration
+msgid "total"
+msgstr "합계"
+
+#: arformsusersignup.php:1718
+#: arformsusersignup.php:1726
+#: arformsusersignup.php:1734
+#: arformsusersignup.php:1742
+#: arformsusersignup.php:1750
+#: arformsusersignup.php:1758
+#: arformsusersignup.php:3737
+#: arformsusersignup.php:3749
+#: arformsusersignup.php:3761
+#: arformsusersignup.php:3773
+#: arformsusersignup.php:3785
+#: arformsusersignup.php:3797
+#: core/edit_tab.php:16
+#@ ARForms-user-registration
+msgid "Form is successfully updated."
+msgstr "양식이 성공적으로 업데이트됩니다."
+
+#: arformsusersignup.php:1819
+#: arformsusersignup.php:1853
+#: arformsusersignup.php:1873
+#: arformsusersignup.php:1900
+#: arformsusersignup.php:1920
+#: arformsusersignup.php:1933
+#: arformsusersignup.php:1967
+#: arformsusersignup.php:1992
+#: arformsusersignup.php:2017
+#: arformsusersignup.php:2045
+#: arformsusersignup.php:2058
+#: arformsusersignup.php:2691
+#@ ARForms-user-registration
+msgid "Select Field"
+msgstr "필드 선택"
+
+#: arformsusersignup.php:3815
+#@ ARForms-user-registration
+msgid "Login"
+msgstr "로그인"
+
+#: arformsusersignup.php:3816
+#: core/edit_forgot_password.php:45
+#@ ARForms-user-registration
+msgid "Forgot Password"
+msgstr "비밀 번호를 잊으셨습니까"
+
+#: arformsusersignup.php:3817
+#: core/edit_change_password.php:46
+#@ ARForms-user-registration
+msgid "Change Password"
+msgstr "비밀번호 변경"
+
+#: arformsusersignup.php:3819
+#: core/edit.php:18
+#: core/edit_profile.php:55
+#: core/edit_tab.php:38
+#@ ARForms-user-registration
+msgid "Edit Profile"
+msgstr "프로필 수정"
+
+#: arformsusersignup.php:154
+#: arformsusersignup.php:3820
+#: arformsusersignup.php:3874
+#: core/edit_login.php:154
+#@ ARForms-user-registration
+msgid "Logout"
+msgstr "로그 아웃"
+
+#: arformsusersignup.php:3843
+#@ ARForms-user-registration
+msgid "Username already exists"
+msgstr "이미 존재하는 사용자 이름"
+
+#: arformsusersignup.php:3844
+#@ ARForms-user-registration
+msgid "Email already exists"
+msgstr "이메일이 이미 존재합니다"
+
+#: arformsusersignup.php:3845
+#@ ARForms-user-registration
+msgid "Invalid username or password"
+msgstr "사용자 이름 또는 비밀번호가 잘못되었습니다"
+
+#: arformsusersignup.php:3847
+#@ ARForms-user-registration
+msgid "Invalid old password"
+msgstr "잘못된 이전 암호"
+
+#: arformsusersignup.php:3912
+#@ ARForms-user-registration
+msgid "Select Meta Option"
+msgstr "메타 옵션을 선택"
+
+#: arformsusersignup.php:3914
+#@ ARForms-user-registration
+msgid "Website"
+msgstr "웹 사이트"
+
+#: arformsusersignup.php:3915
+#@ ARForms-user-registration
+msgid "Biographical Information"
+msgstr "약력"
+
+#: arformsusersignup.php:3941
+#: arformsusersignup.php:3944
+#@ ARForms-user-registration
+msgid "Set"
+msgstr "세트"
+
+#: core/edit.php:5
+#@ ARForms-user-registration
+msgid "Form Configuration"
+msgstr "양식 구성"
+
+#: core/edit.php:16
+#: core/edit_tab.php:34
+#@ ARForms-user-registration
+msgid "Login / Logout"
+msgstr "로그인 / 로그 아웃"
+
+#: core/edit_change_password.php:77
+#: core/edit_forgot_password.php:75
+#: core/edit_login.php:79
+#: core/edit_profile.php:84
+#: core/edit_reset_password.php:76
+#: core/edit_user_registration.php:88
+#@ ARForms-user-registration
+msgid "Please select form"
+msgstr "형태를 선택하세요"
+
+#: core/edit_change_password.php:82
+#: core/edit_change_password.php:108
+#: core/edit_forgot_password.php:80
+#: core/edit_forgot_password.php:96
+#: core/edit_login.php:84
+#: core/edit_login.php:100
+#: core/edit_login.php:111
+#: core/edit_login.php:120
+#: core/edit_profile.php:89
+#: core/edit_reset_password.php:81
+#: core/edit_reset_password.php:102
+#: core/edit_reset_password.php:134
+#: core/edit_user_registration.php:93
+#: core/edit_user_registration.php:110
+#: core/edit_user_registration.php:147
+#@ ARForms-user-registration
+msgid "This field cannot be blank."
+msgstr "이 필드는 비워 둘 수 없습니다."
+
+#: core/edit_change_password.php:95
+#@ ARForms-user-registration
+msgid "Old Password"
+msgstr "이전 암호"
+
+#: core/edit_change_password.php:104
+#: core/edit_reset_password.php:98
+#@ ARForms-user-registration
+msgid "New Password"
+msgstr "새 암호"
+
+#: core/edit_change_password.php:120
+#@ ARForms-user-registration
+msgid "Invalid Old Password"
+msgstr "잘못된 이전 암호"
+
+#: core/edit_change_password.php:146
+#: core/edit_forgot_password.php:119
+#: core/edit_login.php:213
+#: core/edit_profile.php:303
+#: core/edit_reset_password.php:161
+#: core/edit_user_registration.php:395
+#@ ARForms-user-registration
+msgid "Save"
+msgstr "저장"
+
+#: core/edit_change_password.php:149
+#: core/edit_forgot_password.php:122
+#: core/edit_login.php:216
+#: core/edit_profile.php:306
+#: core/edit_reset_password.php:164
+#: core/edit_user_registration.php:398
+#@ ARForms-user-registration
+msgid "Reset"
+msgstr "재설정"
+
+#: core/edit_change_password.php:152
+#: core/edit_forgot_password.php:125
+#: core/edit_login.php:219
+#: core/edit_profile.php:309
+#: core/edit_reset_password.php:167
+#: core/edit_user_registration.php:401
+#: core/list_forms.php:402
+#@ ARForms-user-registration
+msgid "Cancel"
+msgstr "취소"
+
+#: core/edit_forgot_password.php:93
+#@ ARForms-user-registration
+msgid "Username / Email"
+msgstr "아이디 / 이메일"
+
+#: core/edit_forgot_password.php:109
+#@ ARForms-user-registration
+msgid "Invalid Username / Email"
+msgstr "잘못된 이름 / 이메일"
+
+#: core/edit_login.php:97
+#: core/edit_user_registration.php:107
+#@ ARForms-user-registration
+msgid "Username"
+msgstr "이름"
+
+#: core/edit_login.php:107
+#: core/edit_profile.php:139
+#: core/edit_user_registration.php:153
+#@ ARForms-user-registration
+msgid "Password"
+msgstr "암호"
+
+#: core/edit_login.php:117
+#@ ARForms-user-registration
+msgid "Remember Me"
+msgstr "기억하기"
+
+#: core/edit_login.php:141
+#@ ARForms-user-registration
+msgid "Login Error message"
+msgstr "로그인 오류 메시지"
+
+#: core/edit_login.php:161
+#@ ARForms-user-registration
+msgid "Logout Shortcode"
+msgstr "로그 아웃보기 단축"
+
+#: core/edit_login.php:165
+#@ ARForms-user-registration
+msgid "Logout link"
+msgstr "로그 아웃 링크"
+
+#: core/edit_login.php:166
+#@ ARForms-user-registration
+msgid "Logout button"
+msgstr "로그 아웃 버튼"
+
+#: core/edit_login.php:175
+#@ ARForms-user-registration
+msgid "Logout Label"
+msgstr "라벨을 로그 아웃"
+
+#: core/edit_profile.php:102
+#: core/edit_user_registration.php:144
+#@ ARForms-user-registration
+msgid "Email Address"
+msgstr "이메일 주소"
+
+#: core/edit_profile.php:111
+#: core/edit_user_registration.php:116
+#@ ARForms-user-registration
+msgid "First Name"
+msgstr "이름"
+
+#: core/edit_profile.php:121
+#: core/edit_user_registration.php:126
+#@ ARForms-user-registration
+msgid "Last Name"
+msgstr "성"
+
+#: core/edit_profile.php:130
+#: core/edit_user_registration.php:135
+#@ ARForms-user-registration
+msgid "Display Name"
+msgstr "표시 이름"
+
+#: core/edit_profile.php:154
+#: core/edit_user_registration.php:244
+#@ ARForms-user-registration
+msgid "Duplicate Email"
+msgstr "이메일을 중복"
+
+#: core/edit_profile.php:164
+#: core/edit_user_registration.php:253
+#@ ARForms-user-registration
+msgid "Custom User Meta"
+msgstr "사용자 지정 사용자 메타"
+
+#: core/edit_user_registration.php:160
+#@ ARForms-user-registration
+msgid "Note: leave this field blank if want to auto generate password"
+msgstr "참고 :이 필드를 비워 자동 원하는 경우 암호를 생성"
+
+#: core/edit_user_registration.php:168
+#@ ARForms-user-registration
+msgid "User Role"
+msgstr "사용자 역할"
+
+#: core/edit_user_registration.php:205
+#@ ARForms-user-registration
+msgid "Auto login after form submission."
+msgstr "양식 제출 후 자동 로그인."
+
+#: core/edit_user_registration.php:235
+#@ ARForms-user-registration
+msgid "Duplicate Username"
+msgstr "아이디 중복"
+
+#: core/edit_user_registration.php:223
+#@ ARForms-user-registration
+msgid "Send password to the new user by email after signup."
+msgstr "서명을 시작한 후 이메일로 새 사용자에게 암호를 보냅니다."
+
+#: core/list_forms.php:5
+#@ ARForms-user-registration
+msgid "This form is already deleted."
+msgstr "이 양식은 이미 삭제됩니다."
+
+#: core/list_forms.php:398
+#@ ARForms-user-registration
+msgid "DELETE"
+msgstr "삭제"
+
+#: core/list_forms.php:399
+#@ ARForms-user-registration
+msgid "Are you sure you want to delete this configuration?"
+msgstr "당신은 당신이이 구성을 삭제 하시겠습니까?"
+
+#: core/list_forms.php:401
+#@ ARForms-user-registration
+msgid "Okay"
+msgstr "좋아요"
+
+#: core/list_forms.php:407
+#@ ARForms-user-registration
+msgid "Support"
+msgstr "지원"
+
+#: arformsusersignup.php:346
+#@ ARForms-user-registration
+msgid "User Signup Configuration"
+msgstr "사용자 가입 구성"
+
+#: arformsusersignup.php:3846
+#@ ARForms-user-registration
+msgid "Invalid username or email"
+msgstr "잘못된 사용자 이름 또는 이메일"
+
+#: core/edit_change_password.php:47
+#@ ARForms-user-registration
+msgid "Map form with wordpress change password form"
+msgstr "워드 프레스 암호 변경 양식을지도 형태"
+
+#: core/edit_change_password.php:54
+#: core/edit_forgot_password.php:52
+#: core/edit_login.php:56
+#: core/edit_profile.php:62
+#: core/edit_reset_password.php:53
+#: core/edit_user_registration.php:66
+#@ ARForms-user-registration
+msgid "Map Form"
+msgstr "지도 양식"
+
+#: core/edit_change_password.php:114
+#: core/edit_forgot_password.php:103
+#: core/edit_login.php:135
+#: core/edit_profile.php:148
+#: core/edit_user_registration.php:229
+#@ ARForms-user-registration
+msgid "Validation Error Message"
+msgstr "유효성 검사 오류 메시지"
+
+#: core/edit_change_password.php:129
+#: core/edit_user_registration.php:196
+#@ ARForms-user-registration
+msgid "Advanced Options"
+msgstr "고급 옵션"
+
+#: core/edit_user_registration.php:158
+#@ ARForms-user-registration
+msgid "Hide password column in form entries"
+msgstr "양식 항목에 암호 열 숨기기"
+
+#: core/edit_forgot_password.php:46
+#@ ARForms-user-registration
+msgid "Map form with wordpress forgot password form"
+msgstr "워드 프레스와지도 양식 암호 양식을 잊었다"
+
+#: core/edit_login.php:49
+#@ ARForms-user-registration
+msgid "Login form"
+msgstr "로그인 양식"
+
+#: core/edit_login.php:50
+#@ ARForms-user-registration
+msgid "Map form with wordpress login form"
+msgstr "워드 프레스 로그인 양식을지도 형태"
+
+#: core/edit_profile.php:56
+#@ ARForms-user-registration
+msgid "Map form with wordpress edit profile form"
+msgstr "워드 프레스 프로필 편집 양식을지도 형태"
+
+#: core/edit_profile.php:166
+#: core/edit_user_registration.php:255
+#@ ARForms-user-registration
+msgid "Add Blank Meta"
+msgstr "빈 메타 추가"
+
+#: core/edit_profile.php:171
+#: core/edit_user_registration.php:260
+#@ ARForms-user-registration
+msgid "Map Custom Meta"
+msgstr "지도 사용자 정의 메타"
+
+#: core/edit_user_registration.php:59
+#@ ARForms-user-registration
+msgid "User Signup / Registration Form"
+msgstr "사용자 가입 / 등록 양식"
+
+#: core/edit_user_registration.php:60
+#@ ARForms-user-registration
+msgid "Map form with wordpress registration form"
+msgstr "워드 프레스 등록 양식을지도 형태"
+
+#: core/list_forms.php:25
+#@ ARForms-user-registration
+msgid "User Signup / Registration Configuration"
+msgstr "사용자 가입 / 등록 구성"
+
+#: core/list_forms.php:407
+#@ ARForms-user-registration
+msgid "User Signup Documentation"
+msgstr "사용자 가입 문서"
+
+#: arformsusersignup.php:4042
+#@ ARForms-user-registration
+msgid "You must loggedin to view this form"
+msgstr "이 양식을 보려면 로그인해야합니다"
+
+#: core/edit_change_password.php:89
+#: core/edit_forgot_password.php:87
+#: core/edit_login.php:91
+#: core/edit_profile.php:96
+#: core/edit_reset_password.php:92
+#: core/edit_user_registration.php:101
+#@ ARForms-user-registration
+msgid "Map form fields"
+msgstr "지도 양식 필드"
+
+#: core/edit_change_password.php:135
+#: core/edit_user_registration.php:220
+#@ ARForms-user-registration
+msgid "Send notification"
+msgstr "알림 보내기"
+
+#: core/edit_change_password.php:138
+#@ ARForms-user-registration
+msgid "Send password change notification to site administrator by email."
+msgstr "이메일로 사이트 관리자에게 암호 변경 알림을 보낼 수 있습니다."
+
+#: core/edit_login.php:126
+#@ ARForms-user-registration
+msgid "Redirect Url after"
+msgstr "후 URL 리디렉션"
+
+#: core/edit_login.php:126
+#@ ARForms-user-registration
+msgid "Successful login"
+msgstr "성공적으로 로그인"
+
+#: core/edit_login.php:155
+#@ ARForms-user-registration
+msgid "Add following shortcode where you want to show Logout button"
+msgstr "당신이 로그 아웃 버튼을 표시 할 위치를 다음과 단축 코드 추가"
+
+#: core/edit_login.php:184
+#@ ARForms-user-registration
+msgid "Redirect Url after logout"
+msgstr "로그 아웃 한 후 URL 리디렉션"
+
+#: core/edit_login.php:193
+#@ ARForms-user-registration
+msgid "Logout Link / Button Class"
+msgstr "로그 아웃 링크 / 버튼 클래스"
+
+#: core/edit_login.php:202
+#@ ARForms-user-registration
+msgid "Logout Link / Button CSS"
+msgstr "로그 아웃 링크 / 버튼 CSS"
+
+#: core/edit_user_registration.php:202
+#@ ARForms-user-registration
+msgid "Allow Auto-login"
+msgstr "수 자동 로그인"
+
+#: core/edit_user_registration.php:211
+#@ ARForms-user-registration
+msgid "Redirect url"
+msgstr "URL 리디렉션"
+
+#: core/edit_user_registration.php:211
+#@ ARForms-user-registration
+msgid "Optional"
+msgstr "선택"
+
+#: core/edit_user_registration.php:220
+#@ ARForms-user-registration
+msgid "On successful signup"
+msgstr "성공적으로 서명까지에"
+
+#: arformsusersignup.php:268
+#@ ARForms-user-registration
+msgid "User Signup For ARForms plugin requires ARForms plugin installed with version 2.5.2 or higher."
+msgstr "ARForms 플러그인에 대한 사용자의 가입은 ARForms는 버전 2.5.2 이상으로 플러그인을 설치해야합니다."
+
+#: core/edit_profile.php:234
+#: core/edit_user_registration.php:326
+#@ ARForms-user-registration
+msgid "BuddyPress Profile Field"
+msgstr "BuddyPress 프로필 필드"
+
+#: core/edit_profile.php:240
+#: core/edit_user_registration.php:332
+#@ ARForms-user-registration
+msgid "Map profile field"
+msgstr "지도 프로필 필드"
+
+#: arformsusersignup.php:3818
+#: core/edit_reset_password.php:45
+#@ ARForms-user-registration
+msgid "Reset Password"
+msgstr "암호 재설정"
+
+#: core/edit.php:17
+#: core/edit_tab.php:36
+#@ ARForms-user-registration
+msgid "Change / Forgot / Reset Password"
+msgstr "변경 / 분실 / 암호 재설정"
+
+#: core/edit_reset_password.php:46
+#@ ARForms-user-registration
+msgid "Map form with wordpress reset password form"
+msgstr "워드 프레스 암호 재설정 양식을지도 형태"
+
+#: core/edit_reset_password.php:123
+#@ ARForms-user-registration
+msgid "Map page with wordpress reset password form"
+msgstr "워드 프레스 암호 재설정 양식을지도 페이지"
+
+#: core/edit_reset_password.php:129
+#@ ARForms-user-registration
+msgid "Map Page"
+msgstr "지도 페이지"
+
+#: core/edit_login.php:167
+#@ ARForms-user-registration
+msgid "Display Username"
+msgstr "디스플레이 아이디"
+
