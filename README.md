@@ -1,2 +1,0 @@
-# slhomes
-www.slhomes.in
